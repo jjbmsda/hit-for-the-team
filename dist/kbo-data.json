@@ -564,7 +564,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "대구",
-        "game_id": null
+        "game_id": "20260915LTSS0"
       },
       {
         "date": "2026-09-15",
@@ -574,7 +574,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "문학",
-        "game_id": null
+        "game_id": "20260915HTSK0"
       },
       {
         "date": "2026-09-15",
@@ -584,7 +584,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "창원",
-        "game_id": null
+        "game_id": "20260915LGNC0"
       },
       {
         "date": "2026-09-15",
@@ -594,7 +594,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "대전",
-        "game_id": null
+        "game_id": "20260915KTHH0"
       },
       {
         "date": "2026-09-16",
@@ -1087,13 +1087,13 @@
         "game_id": null
       }
     ],
-    "fetched_at": "2026-09-07T23:11:17+09:00"
+    "fetched_at": "2026-09-08T04:03:23+09:00"
   },
   "source_url": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
   "season": 2026,
   "series": "KBO 정규시즌",
   "scope": "KBO 기본 타자기록의 기본 조회 대상 · 전체 페이지",
-  "fetched_at": "2026-09-07T23:11:17+09:00",
+  "fetched_at": "2026-09-08T04:03:23+09:00",
   "record_cutoff": null,
   "pages": 2,
   "players": [
@@ -1246,7 +1246,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62404",
-        "fetched_at": "2026-09-07T23:10:42+09:00"
+        "fetched_at": "2026-09-08T04:02:53+09:00"
       }
     },
     {
@@ -1398,7 +1398,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54529",
-        "fetched_at": "2026-09-07T23:10:42+09:00"
+        "fetched_at": "2026-09-08T04:02:53+09:00"
       }
     },
     {
@@ -1550,7 +1550,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53123",
-        "fetched_at": "2026-09-07T23:10:43+09:00"
+        "fetched_at": "2026-09-08T04:02:53+09:00"
       }
     },
     {
@@ -1702,7 +1702,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66606",
-        "fetched_at": "2026-09-07T23:10:44+09:00"
+        "fetched_at": "2026-09-08T04:02:55+09:00"
       }
     },
     {
@@ -1854,7 +1854,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67893",
-        "fetched_at": "2026-09-07T23:10:45+09:00"
+        "fetched_at": "2026-09-08T04:02:55+09:00"
       }
     },
     {
@@ -2006,7 +2006,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50458",
-        "fetched_at": "2026-09-07T23:10:45+09:00"
+        "fetched_at": "2026-09-08T04:02:55+09:00"
       }
     },
     {
@@ -2158,7 +2158,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62907",
-        "fetched_at": "2026-09-07T23:10:46+09:00"
+        "fetched_at": "2026-09-08T04:02:56+09:00"
       }
     },
     {
@@ -2310,7 +2310,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=72443",
-        "fetched_at": "2026-09-07T23:10:47+09:00"
+        "fetched_at": "2026-09-08T04:02:57+09:00"
       }
     },
     {
@@ -2462,7 +2462,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53554",
-        "fetched_at": "2026-09-07T23:10:47+09:00"
+        "fetched_at": "2026-09-08T04:02:57+09:00"
       }
     },
     {
@@ -2614,7 +2614,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78168",
-        "fetched_at": "2026-09-07T23:10:48+09:00"
+        "fetched_at": "2026-09-08T04:02:58+09:00"
       }
     },
     {
@@ -2766,7 +2766,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52605",
-        "fetched_at": "2026-09-07T23:10:49+09:00"
+        "fetched_at": "2026-09-08T04:02:58+09:00"
       }
     },
     {
@@ -2918,7 +2918,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53764",
-        "fetched_at": "2026-09-07T23:10:49+09:00"
+        "fetched_at": "2026-09-08T04:02:58+09:00"
       }
     },
     {
@@ -3070,7 +3070,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67449",
-        "fetched_at": "2026-09-07T23:10:50+09:00"
+        "fetched_at": "2026-09-08T04:03:00+09:00"
       }
     },
     {
@@ -3222,7 +3222,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=63260",
-        "fetched_at": "2026-09-07T23:10:51+09:00"
+        "fetched_at": "2026-09-08T04:03:00+09:00"
       }
     },
     {
@@ -3374,7 +3374,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62947",
-        "fetched_at": "2026-09-07T23:10:51+09:00"
+        "fetched_at": "2026-09-08T04:03:01+09:00"
       }
     },
     {
@@ -3526,7 +3526,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54400",
-        "fetched_at": "2026-09-07T23:10:53+09:00"
+        "fetched_at": "2026-09-08T04:03:02+09:00"
       }
     },
     {
@@ -3678,7 +3678,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=56034",
-        "fetched_at": "2026-09-07T23:10:53+09:00"
+        "fetched_at": "2026-09-08T04:03:02+09:00"
       }
     },
     {
@@ -3830,7 +3830,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54730",
-        "fetched_at": "2026-09-07T23:10:53+09:00"
+        "fetched_at": "2026-09-08T04:03:02+09:00"
       }
     },
     {
@@ -3982,7 +3982,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79215",
-        "fetched_at": "2026-09-07T23:10:55+09:00"
+        "fetched_at": "2026-09-08T04:03:04+09:00"
       }
     },
     {
@@ -4134,7 +4134,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=51907",
-        "fetched_at": "2026-09-07T23:10:55+09:00"
+        "fetched_at": "2026-09-08T04:03:04+09:00"
       }
     },
     {
@@ -4286,7 +4286,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62234",
-        "fetched_at": "2026-09-07T23:10:55+09:00"
+        "fetched_at": "2026-09-08T04:03:04+09:00"
       }
     },
     {
@@ -4438,7 +4438,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=55636",
-        "fetched_at": "2026-09-07T23:10:57+09:00"
+        "fetched_at": "2026-09-08T04:03:06+09:00"
       }
     },
     {
@@ -4590,7 +4590,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50500",
-        "fetched_at": "2026-09-07T23:10:57+09:00"
+        "fetched_at": "2026-09-08T04:03:06+09:00"
       }
     },
     {
@@ -4742,7 +4742,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68050",
-        "fetched_at": "2026-09-07T23:10:57+09:00"
+        "fetched_at": "2026-09-08T04:03:06+09:00"
       }
     },
     {
@@ -4894,7 +4894,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79402",
-        "fetched_at": "2026-09-07T23:10:59+09:00"
+        "fetched_at": "2026-09-08T04:03:08+09:00"
       }
     },
     {
@@ -5046,7 +5046,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=64646",
-        "fetched_at": "2026-09-07T23:10:59+09:00"
+        "fetched_at": "2026-09-08T04:03:08+09:00"
       }
     },
     {
@@ -5198,7 +5198,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52764",
-        "fetched_at": "2026-09-07T23:10:59+09:00"
+        "fetched_at": "2026-09-08T04:03:08+09:00"
       }
     },
     {
@@ -5356,7 +5356,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54944",
-        "fetched_at": "2026-09-07T23:11:01+09:00"
+        "fetched_at": "2026-09-08T04:03:09+09:00"
       }
     },
     {
@@ -5508,7 +5508,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53827",
-        "fetched_at": "2026-09-07T23:11:02+09:00"
+        "fetched_at": "2026-09-08T04:03:10+09:00"
       }
     },
     {
@@ -5660,7 +5660,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62415",
-        "fetched_at": "2026-09-07T23:11:01+09:00"
+        "fetched_at": "2026-09-08T04:03:10+09:00"
       }
     },
     {
@@ -5812,7 +5812,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69737",
-        "fetched_at": "2026-09-07T23:11:04+09:00"
+        "fetched_at": "2026-09-08T04:03:11+09:00"
       }
     },
     {
@@ -5964,7 +5964,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78603",
-        "fetched_at": "2026-09-07T23:11:04+09:00"
+        "fetched_at": "2026-09-08T04:03:12+09:00"
       }
     },
     {
@@ -6116,7 +6116,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69517",
-        "fetched_at": "2026-09-07T23:11:04+09:00"
+        "fetched_at": "2026-09-08T04:03:12+09:00"
       }
     },
     {
@@ -6268,7 +6268,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66704",
-        "fetched_at": "2026-09-07T23:11:06+09:00"
+        "fetched_at": "2026-09-08T04:03:13+09:00"
       }
     },
     {
@@ -6420,7 +6420,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54812",
-        "fetched_at": "2026-09-07T23:11:06+09:00"
+        "fetched_at": "2026-09-08T04:03:14+09:00"
       }
     },
     {
@@ -6572,7 +6572,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68205",
-        "fetched_at": "2026-09-07T23:11:07+09:00"
+        "fetched_at": "2026-09-08T04:03:14+09:00"
       }
     },
     {
@@ -6724,7 +6724,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53312",
-        "fetched_at": "2026-09-07T23:11:08+09:00"
+        "fetched_at": "2026-09-08T04:03:15+09:00"
       }
     },
     {
@@ -6876,7 +6876,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76290",
-        "fetched_at": "2026-09-07T23:11:08+09:00"
+        "fetched_at": "2026-09-08T04:03:16+09:00"
       }
     },
     {
@@ -7028,7 +7028,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=65653",
-        "fetched_at": "2026-09-07T23:11:09+09:00"
+        "fetched_at": "2026-09-08T04:03:16+09:00"
       }
     },
     {
@@ -7180,7 +7180,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=64006",
-        "fetched_at": "2026-09-07T23:11:10+09:00"
+        "fetched_at": "2026-09-08T04:03:18+09:00"
       }
     },
     {
@@ -7332,7 +7332,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79608",
-        "fetched_at": "2026-09-07T23:11:10+09:00"
+        "fetched_at": "2026-09-08T04:03:18+09:00"
       }
     },
     {
@@ -7484,7 +7484,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=65207",
-        "fetched_at": "2026-09-07T23:11:11+09:00"
+        "fetched_at": "2026-09-08T04:03:18+09:00"
       }
     },
     {
@@ -7636,7 +7636,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79231",
-        "fetched_at": "2026-09-07T23:11:12+09:00"
+        "fetched_at": "2026-09-08T04:03:19+09:00"
       }
     },
     {
@@ -7788,7 +7788,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76232",
-        "fetched_at": "2026-09-07T23:11:12+09:00"
+        "fetched_at": "2026-09-08T04:03:20+09:00"
       }
     },
     {
@@ -7940,7 +7940,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50854",
-        "fetched_at": "2026-09-07T23:11:13+09:00"
+        "fetched_at": "2026-09-08T04:03:20+09:00"
       }
     },
     {
@@ -8092,7 +8092,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66108",
-        "fetched_at": "2026-09-07T23:11:14+09:00"
+        "fetched_at": "2026-09-08T04:03:21+09:00"
       }
     },
     {
@@ -8244,7 +8244,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79109",
-        "fetched_at": "2026-09-07T23:11:14+09:00"
+        "fetched_at": "2026-09-08T04:03:21+09:00"
       }
     },
     {
@@ -8396,7 +8396,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78224",
-        "fetched_at": "2026-09-07T23:11:15+09:00"
+        "fetched_at": "2026-09-08T04:03:22+09:00"
       }
     }
   ]
