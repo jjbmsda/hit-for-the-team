@@ -1,6 +1,10 @@
 name: Refresh KBO data
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/crawl_kbo.py'
   schedule:
     - cron: '0 15 * * *'
   workflow_dispatch:
