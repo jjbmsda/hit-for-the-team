@@ -12,6 +12,7 @@ from concurrent.futures import ThreadPoolExecutor
 from kbo_schedule import fetch_schedule
 
 URL='https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx'
+DEFENSE_URL='https://www.koreabaseball.com/Record/Player/Defense/Basic.aspx'
 ROOT=Path(__file__).resolve().parents[1]
 class Page(HTMLParser):
     def __init__(self, html):
@@ -61,6 +62,51 @@ def parse_players(page):
     assert out, 'Empty leaderboard'
     return out
 
+def parse_defense(page):
+    assert page.rows and page.rows[0][:7]==['순위','선수명','팀명','POS','G','GS','IP'], 'KBO defense table layout changed'
+    out=[]
+    valid={'포수','1루수','2루수','3루수','유격수','좌익수','중견수','우익수'}
+    for r in page.rows[1:]:
+        assert len(r)==17, 'Unexpected defense row width'
+        rank,name,team,pos=r[0],r[1],r[2],r[3]
+        if not rank.isdigit() or pos not in valid: continue
+        player_id=page.player_ids.get(rank)
+        if player_id: out.append((player_id,name,team,pos))
+    return out
+
+def fetch_paginated(url):
+    opener=build_opener(HTTPCookieProcessor())
+    def fetch(fields=None):
+        req=Request(url,data=urlencode(fields).encode() if fields is not None else None,headers={'User-Agent':'HitPick/1.0 (daily public KBO statistics reader)','Referer':url})
+        with opener.open(req,timeout=45) as response:
+            assert response.status==200
+            return Page(response.read().decode('utf-8-sig'))
+    first=fetch(); pages=[first]; visited={1}; pending=first.pages.copy(); current=first
+    while set(pending)-visited:
+        n=min(set(pending)-visited)
+        assert n<=100, 'Pagination limit exceeded'
+        fields=current.fields.copy(); fields.update(__EVENTTARGET=pending[n],__EVENTARGUMENT='')
+        time.sleep(1)
+        current=fetch(fields)
+        page_number=next((v for k,v in current.fields.items() if k.endswith('$hfPage')),None)
+        assert page_number==str(n), 'Server did not advance page'
+        pages.append(current); visited.add(n); pending.update(current.pages)
+    return pages
+
+def fetch_defense_positions(season):
+    pages=fetch_paginated(DEFENSE_URL)
+    assert pages[0].season==season, 'Defense season mismatch'
+    records=[]
+    for page in pages:
+        assert page.season==season, 'Defense season changed during pagination'
+        records.extend(parse_defense(page))
+    positions={}
+    for player_id,name,team,pos in records:
+        positions.setdefault(player_id,pos)
+    assert positions, 'No defense positions found'
+    print(f'Defense positions: {len(positions)} players',flush=True)
+    return positions
+
 def parse_recent(html, player, season):
     assert re.search(r'<h6>\s*'+str(season)+r'\s*성적\s*</h6>',html), 'Unexpected player season'
     page=Page(html)
@@ -77,7 +123,6 @@ def parse_recent(html, player, season):
         date=f"{season}-{r[0].replace('.','-')}"
         datetime.strptime(date,'%Y-%m-%d')
         games.append(dict(date=date,opponent=r[2],venue=r[1],at_bats=ab,hits=h))
-    # Preserve distinct doubleheader appearances even when their dates match.
     ab=sum(g['at_bats'] for g in games); h=sum(g['hits'] for g in games)
     totals=[r for r in page.rows if r[0]=='합계']
     assert len(totals)==1 and len(totals[0])==16, 'Recent total missing'
@@ -85,8 +130,7 @@ def parse_recent(html, player, season):
     assert int(total[3])==ab and int(total[5])==h, 'Recent totals disagree with game rows'
     if ab: assert abs(float(total[1])-h/ab)<=.00051, 'Recent AVG mismatch'
     assert ab<=player['at_bats'] and h<=player['hits'], 'Recent exceeds season'
-    return dict(games=len(games),at_bats=ab,hits=h,average=h/ab if ab else None,
-                start_date=min(g['date'] for g in games),end_date=max(g['date'] for g in games),game_log=games)
+    return dict(games=len(games),at_bats=ab,hits=h,average=h/ab if ab else None,start_date=min(g['date'] for g in games),end_date=max(g['date'] for g in games),game_log=games)
 
 def fetch_recent(player, season):
     url='https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId='+player['player_id']
@@ -128,29 +172,22 @@ def fetch_opponents(player, season):
     return dict(teams=result,source_url=url,fetched_at=datetime.now(ZoneInfo('Asia/Seoul')).isoformat(timespec='seconds'))
 
 def main():
-    opener=build_opener(HTTPCookieProcessor())
-    def fetch(fields=None):
-        req=Request(URL,data=urlencode(fields).encode() if fields is not None else None,headers={'User-Agent':'HitPick/1.0 (daily public KBO statistics reader)','Referer':URL})
-        with opener.open(req,timeout=45) as response:
-            assert response.status==200
-            return Page(response.read().decode('utf-8-sig'))
-    page=fetch(); season=page.season
+    pages=fetch_paginated(URL); season=pages[0].season
     assert season==datetime.now(ZoneInfo('Asia/Seoul')).year, 'Unexpected season; preserve old data'
-    players=parse_players(page); visited={1}; pending=page.pages.copy()
-    while set(pending)-visited:
-        n=min(set(pending)-visited)
-        assert n<=100, 'Pagination limit exceeded'
-        fields=page.fields.copy(); fields.update(__EVENTTARGET=pending[n],__EVENTARGUMENT='')
-        time.sleep(1)
-        page=fetch(fields)
+    players=[]
+    for page in pages:
         assert page.season==season
-        page_number=next((v for k,v in page.fields.items() if k.endswith('$hfPage')),None)
-        assert page_number==str(n), 'Server did not advance page'
-        players.extend(parse_players(page)); visited.add(n); pending.update(page.pages)
+        players.extend(parse_players(page))
     ranks=[p['rank'] for p in players]
     assert len(set(ranks))==len(ranks), 'Duplicate page data'
     assert ranks==list(range(1,len(players)+1)), 'Missing leaderboard rows'
     assert len(players)>=10, 'Unexpectedly small leaderboard; needs review'
+    positions=fetch_defense_positions(season)
+    matched=0
+    for player in players:
+        player['position']=positions.get(player['player_id'])
+        if player['position']: matched+=1
+    assert matched>=min(20,int(len(players)*0.6)), 'Too few batting players matched to exact defense positions'
     with ThreadPoolExecutor(max_workers=3) as pool:
         recent=list(pool.map(lambda player: fetch_recent(player,season),players))
     for player,record in zip(players,recent): player['recent10']=record
@@ -159,9 +196,9 @@ def main():
     for player,record in zip(players,splits): player['opponents']=record
     schedule=fetch_schedule()
     now=datetime.now(ZoneInfo('Asia/Seoul')).isoformat(timespec='seconds')
-    result=dict(schema_version=2,schedule=schedule,source_url=URL,season=season,series='KBO 정규시즌',scope='KBO 기본 타자기록의 기본 조회 대상 · 전체 페이지',fetched_at=now,record_cutoff=None,pages=len(visited),players=players)
+    result=dict(schema_version=2,schedule=schedule,source_url=URL,defense_source_url=DEFENSE_URL,season=season,series='KBO 정규시즌',scope='KBO 기본 타자기록의 기본 조회 대상 · 전체 페이지',fetched_at=now,record_cutoff=None,pages=len(pages),players=players)
     dest=ROOT/'dist'/'kbo-data.json'; temp=dest.with_suffix('.tmp'); temp.write_text(json.dumps(result,ensure_ascii=False,indent=2)); temp.replace(dest)
-    print(json.dumps({'players':len(players),'pages':len(visited),'season':season,'fetched_at':now},ensure_ascii=False))
+    print(json.dumps({'players':len(players),'positions':matched,'pages':len(pages),'season':season,'fetched_at':now},ensure_ascii=False))
 if __name__=='__main__':
     try: main()
     except Exception as e:
