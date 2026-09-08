@@ -1087,13 +1087,14 @@
         "game_id": null
       }
     ],
-    "fetched_at": "2026-09-08T04:03:23+09:00"
+    "fetched_at": "2026-09-08T09:43:04+09:00"
   },
   "source_url": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
+  "defense_source_url": "https://www.koreabaseball.com/Record/Player/Defense/Basic.aspx",
   "season": 2026,
   "series": "KBO 정규시즌",
   "scope": "KBO 기본 타자기록의 기본 조회 대상 · 전체 페이지",
-  "fetched_at": "2026-09-08T04:03:23+09:00",
+  "fetched_at": "2026-09-08T09:43:04+09:00",
   "record_cutoff": null,
   "pages": 2,
   "players": [
@@ -1107,6 +1108,7 @@
       "at_bats": 382,
       "hits": 138,
       "average": 0.361,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 36,
@@ -1246,7 +1248,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62404",
-        "fetched_at": "2026-09-08T04:02:53+09:00"
+        "fetched_at": "2026-09-08T09:42:33+09:00"
       }
     },
     {
@@ -1259,6 +1261,7 @@
       "at_bats": 473,
       "hits": 166,
       "average": 0.351,
+      "position": "좌익수",
       "recent10": {
         "games": 10,
         "at_bats": 38,
@@ -1398,7 +1401,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54529",
-        "fetched_at": "2026-09-08T04:02:53+09:00"
+        "fetched_at": "2026-09-08T09:42:33+09:00"
       }
     },
     {
@@ -1411,6 +1414,7 @@
       "at_bats": 465,
       "hits": 158,
       "average": 0.34,
+      "position": "1루수",
       "recent10": {
         "games": 10,
         "at_bats": 39,
@@ -1550,7 +1554,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53123",
-        "fetched_at": "2026-09-08T04:02:53+09:00"
+        "fetched_at": "2026-09-08T09:42:33+09:00"
       }
     },
     {
@@ -1563,6 +1567,7 @@
       "at_bats": 472,
       "hits": 160,
       "average": 0.339,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 45,
@@ -1702,7 +1707,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66606",
-        "fetched_at": "2026-09-08T04:02:55+09:00"
+        "fetched_at": "2026-09-08T09:42:35+09:00"
       }
     },
     {
@@ -1715,6 +1720,7 @@
       "at_bats": 460,
       "hits": 152,
       "average": 0.33,
+      "position": "유격수",
       "recent10": {
         "games": 10,
         "at_bats": 37,
@@ -1854,7 +1860,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67893",
-        "fetched_at": "2026-09-08T04:02:55+09:00"
+        "fetched_at": "2026-09-08T09:42:35+09:00"
       }
     },
     {
@@ -1867,6 +1873,7 @@
       "at_bats": 395,
       "hits": 129,
       "average": 0.327,
+      "position": "포수",
       "recent10": {
         "games": 10,
         "at_bats": 41,
@@ -2006,7 +2013,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50458",
-        "fetched_at": "2026-09-08T04:02:55+09:00"
+        "fetched_at": "2026-09-08T09:42:35+09:00"
       }
     },
     {
@@ -2019,6 +2026,7 @@
       "at_bats": 388,
       "hits": 125,
       "average": 0.322,
+      "position": "2루수",
       "recent10": {
         "games": 10,
         "at_bats": 31,
@@ -2158,7 +2166,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62907",
-        "fetched_at": "2026-09-08T04:02:56+09:00"
+        "fetched_at": "2026-09-08T09:42:37+09:00"
       }
     },
     {
@@ -2171,6 +2179,7 @@
       "at_bats": 418,
       "hits": 134,
       "average": 0.321,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 40,
@@ -2310,7 +2319,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=72443",
-        "fetched_at": "2026-09-08T04:02:57+09:00"
+        "fetched_at": "2026-09-08T09:42:37+09:00"
       }
     },
     {
@@ -2323,6 +2332,7 @@
       "at_bats": 380,
       "hits": 119,
       "average": 0.313,
+      "position": "좌익수",
       "recent10": {
         "games": 10,
         "at_bats": 38,
@@ -2462,7 +2472,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53554",
-        "fetched_at": "2026-09-08T04:02:57+09:00"
+        "fetched_at": "2026-09-08T09:42:37+09:00"
       }
     },
     {
@@ -2475,6 +2485,7 @@
       "at_bats": 353,
       "hits": 110,
       "average": 0.312,
+      "position": "2루수",
       "recent10": {
         "games": 10,
         "at_bats": 36,
@@ -2614,7 +2625,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78168",
-        "fetched_at": "2026-09-08T04:02:58+09:00"
+        "fetched_at": "2026-09-08T09:42:39+09:00"
       }
     },
     {
@@ -2627,6 +2638,7 @@
       "at_bats": 441,
       "hits": 135,
       "average": 0.306,
+      "position": "유격수",
       "recent10": {
         "games": 10,
         "at_bats": 33,
@@ -2766,7 +2778,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52605",
-        "fetched_at": "2026-09-08T04:02:58+09:00"
+        "fetched_at": "2026-09-08T09:42:38+09:00"
       }
     },
     {
@@ -2779,6 +2791,7 @@
       "at_bats": 464,
       "hits": 142,
       "average": 0.306,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 39,
@@ -2918,7 +2931,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53764",
-        "fetched_at": "2026-09-08T04:02:58+09:00"
+        "fetched_at": "2026-09-08T09:42:39+09:00"
       }
     },
     {
@@ -2931,6 +2944,7 @@
       "at_bats": 347,
       "hits": 106,
       "average": 0.305,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 32,
@@ -3070,7 +3084,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67449",
-        "fetched_at": "2026-09-08T04:03:00+09:00"
+        "fetched_at": "2026-09-08T09:42:40+09:00"
       }
     },
     {
@@ -3083,6 +3097,7 @@
       "at_bats": 368,
       "hits": 112,
       "average": 0.304,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 27,
@@ -3222,7 +3237,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=63260",
-        "fetched_at": "2026-09-08T04:03:00+09:00"
+        "fetched_at": "2026-09-08T09:42:41+09:00"
       }
     },
     {
@@ -3235,6 +3250,7 @@
       "at_bats": 416,
       "hits": 125,
       "average": 0.3,
+      "position": "포수",
       "recent10": {
         "games": 10,
         "at_bats": 38,
@@ -3374,7 +3390,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62947",
-        "fetched_at": "2026-09-08T04:03:01+09:00"
+        "fetched_at": "2026-09-08T09:42:41+09:00"
       }
     },
     {
@@ -3387,6 +3403,7 @@
       "at_bats": 470,
       "hits": 140,
       "average": 0.298,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 42,
@@ -3526,7 +3543,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54400",
-        "fetched_at": "2026-09-08T04:03:02+09:00"
+        "fetched_at": "2026-09-08T09:42:42+09:00"
       }
     },
     {
@@ -3539,6 +3556,7 @@
       "at_bats": 457,
       "hits": 135,
       "average": 0.295,
+      "position": "좌익수",
       "recent10": {
         "games": 10,
         "at_bats": 43,
@@ -3678,7 +3696,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=56034",
-        "fetched_at": "2026-09-08T04:03:02+09:00"
+        "fetched_at": "2026-09-08T09:42:43+09:00"
       }
     },
     {
@@ -3691,6 +3709,7 @@
       "at_bats": 411,
       "hits": 121,
       "average": 0.294,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 25,
@@ -3830,7 +3849,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54730",
-        "fetched_at": "2026-09-08T04:03:02+09:00"
+        "fetched_at": "2026-09-08T09:42:43+09:00"
       }
     },
     {
@@ -3843,6 +3862,7 @@
       "at_bats": 384,
       "hits": 113,
       "average": 0.294,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 34,
@@ -3982,7 +4002,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79215",
-        "fetched_at": "2026-09-08T04:03:04+09:00"
+        "fetched_at": "2026-09-08T09:42:44+09:00"
       }
     },
     {
@@ -3995,6 +4015,7 @@
       "at_bats": 454,
       "hits": 132,
       "average": 0.291,
+      "position": "유격수",
       "recent10": {
         "games": 10,
         "at_bats": 44,
@@ -4134,7 +4155,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=51907",
-        "fetched_at": "2026-09-08T04:03:04+09:00"
+        "fetched_at": "2026-09-08T09:42:44+09:00"
       }
     },
     {
@@ -4147,6 +4168,7 @@
       "at_bats": 393,
       "hits": 114,
       "average": 0.29,
+      "position": "2루수",
       "recent10": {
         "games": 10,
         "at_bats": 33,
@@ -4286,7 +4308,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62234",
-        "fetched_at": "2026-09-08T04:03:04+09:00"
+        "fetched_at": "2026-09-08T09:42:45+09:00"
       }
     },
     {
@@ -4299,6 +4321,7 @@
       "at_bats": 442,
       "hits": 128,
       "average": 0.29,
+      "position": "2루수",
       "recent10": {
         "games": 10,
         "at_bats": 46,
@@ -4438,7 +4461,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=55636",
-        "fetched_at": "2026-09-08T04:03:06+09:00"
+        "fetched_at": "2026-09-08T09:42:46+09:00"
       }
     },
     {
@@ -4451,6 +4474,7 @@
       "at_bats": 373,
       "hits": 108,
       "average": 0.29,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 34,
@@ -4590,7 +4614,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50500",
-        "fetched_at": "2026-09-08T04:03:06+09:00"
+        "fetched_at": "2026-09-08T09:42:47+09:00"
       }
     },
     {
@@ -4603,6 +4627,7 @@
       "at_bats": 418,
       "hits": 121,
       "average": 0.289,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 41,
@@ -4742,7 +4767,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68050",
-        "fetched_at": "2026-09-08T04:03:06+09:00"
+        "fetched_at": "2026-09-08T09:42:47+09:00"
       }
     },
     {
@@ -4755,6 +4780,7 @@
       "at_bats": 349,
       "hits": 101,
       "average": 0.289,
+      "position": "2루수",
       "recent10": {
         "games": 10,
         "at_bats": 31,
@@ -4894,7 +4920,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79402",
-        "fetched_at": "2026-09-08T04:03:08+09:00"
+        "fetched_at": "2026-09-08T09:42:49+09:00"
       }
     },
     {
@@ -4907,6 +4933,7 @@
       "at_bats": 454,
       "hits": 131,
       "average": 0.289,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 35,
@@ -5046,7 +5073,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=64646",
-        "fetched_at": "2026-09-08T04:03:08+09:00"
+        "fetched_at": "2026-09-08T09:42:49+09:00"
       }
     },
     {
@@ -5059,6 +5086,7 @@
       "at_bats": 330,
       "hits": 95,
       "average": 0.288,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 34,
@@ -5198,7 +5226,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52764",
-        "fetched_at": "2026-09-08T04:03:08+09:00"
+        "fetched_at": "2026-09-08T09:42:49+09:00"
       }
     },
     {
@@ -5211,6 +5239,7 @@
       "at_bats": 395,
       "hits": 112,
       "average": 0.284,
+      "position": "1루수",
       "recent10": {
         "games": 10,
         "at_bats": 39,
@@ -5356,7 +5385,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54944",
-        "fetched_at": "2026-09-08T04:03:09+09:00"
+        "fetched_at": "2026-09-08T09:42:50+09:00"
       }
     },
     {
@@ -5369,6 +5398,7 @@
       "at_bats": 382,
       "hits": 108,
       "average": 0.283,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 40,
@@ -5508,7 +5538,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53827",
-        "fetched_at": "2026-09-08T04:03:10+09:00"
+        "fetched_at": "2026-09-08T09:42:50+09:00"
       }
     },
     {
@@ -5521,6 +5551,7 @@
       "at_bats": 410,
       "hits": 115,
       "average": 0.28,
+      "position": "중견수",
       "recent10": {
         "games": 10,
         "at_bats": 38,
@@ -5660,7 +5691,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62415",
-        "fetched_at": "2026-09-08T04:03:10+09:00"
+        "fetched_at": "2026-09-08T09:42:51+09:00"
       }
     },
     {
@@ -5673,6 +5704,7 @@
       "at_bats": 450,
       "hits": 126,
       "average": 0.28,
+      "position": "3루수",
       "recent10": {
         "games": 10,
         "at_bats": 41,
@@ -5812,7 +5844,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69737",
-        "fetched_at": "2026-09-08T04:03:11+09:00"
+        "fetched_at": "2026-09-08T09:42:52+09:00"
       }
     },
     {
@@ -5825,6 +5857,7 @@
       "at_bats": 375,
       "hits": 104,
       "average": 0.277,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 32,
@@ -5964,7 +5997,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78603",
-        "fetched_at": "2026-09-08T04:03:12+09:00"
+        "fetched_at": "2026-09-08T09:42:52+09:00"
       }
     },
     {
@@ -5977,6 +6010,7 @@
       "at_bats": 352,
       "hits": 97,
       "average": 0.276,
+      "position": "1루수",
       "recent10": {
         "games": 10,
         "at_bats": 38,
@@ -6116,7 +6150,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69517",
-        "fetched_at": "2026-09-08T04:03:12+09:00"
+        "fetched_at": "2026-09-08T09:42:53+09:00"
       }
     },
     {
@@ -6129,6 +6163,7 @@
       "at_bats": 317,
       "hits": 87,
       "average": 0.274,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 38,
@@ -6268,7 +6303,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66704",
-        "fetched_at": "2026-09-08T04:03:13+09:00"
+        "fetched_at": "2026-09-08T09:42:54+09:00"
       }
     },
     {
@@ -6281,6 +6316,7 @@
       "at_bats": 444,
       "hits": 121,
       "average": 0.273,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 41,
@@ -6420,7 +6456,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54812",
-        "fetched_at": "2026-09-08T04:03:14+09:00"
+        "fetched_at": "2026-09-08T09:42:55+09:00"
       }
     },
     {
@@ -6433,6 +6469,7 @@
       "at_bats": 382,
       "hits": 104,
       "average": 0.272,
+      "position": "유격수",
       "recent10": {
         "games": 10,
         "at_bats": 32,
@@ -6572,7 +6609,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68205",
-        "fetched_at": "2026-09-08T04:03:14+09:00"
+        "fetched_at": "2026-09-08T09:42:55+09:00"
       }
     },
     {
@@ -6585,6 +6622,7 @@
       "at_bats": 360,
       "hits": 98,
       "average": 0.272,
+      "position": "포수",
       "recent10": {
         "games": 10,
         "at_bats": 30,
@@ -6724,7 +6762,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53312",
-        "fetched_at": "2026-09-08T04:03:15+09:00"
+        "fetched_at": "2026-09-08T09:42:56+09:00"
       }
     },
     {
@@ -6737,6 +6775,7 @@
       "at_bats": 468,
       "hits": 127,
       "average": 0.271,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 38,
@@ -6876,7 +6915,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76290",
-        "fetched_at": "2026-09-08T04:03:16+09:00"
+        "fetched_at": "2026-09-08T09:42:56+09:00"
       }
     },
     {
@@ -6889,6 +6928,7 @@
       "at_bats": 448,
       "hits": 121,
       "average": 0.27,
+      "position": "중견수",
       "recent10": {
         "games": 10,
         "at_bats": 32,
@@ -7028,7 +7068,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=65653",
-        "fetched_at": "2026-09-08T04:03:16+09:00"
+        "fetched_at": "2026-09-08T09:42:57+09:00"
       }
     },
     {
@@ -7041,6 +7081,7 @@
       "at_bats": 333,
       "hits": 89,
       "average": 0.267,
+      "position": "유격수",
       "recent10": {
         "games": 10,
         "at_bats": 32,
@@ -7180,7 +7221,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=64006",
-        "fetched_at": "2026-09-08T04:03:18+09:00"
+        "fetched_at": "2026-09-08T09:42:58+09:00"
       }
     },
     {
@@ -7193,6 +7234,7 @@
       "at_bats": 385,
       "hits": 102,
       "average": 0.265,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 27,
@@ -7332,7 +7374,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79608",
-        "fetched_at": "2026-09-08T04:03:18+09:00"
+        "fetched_at": "2026-09-08T09:42:58+09:00"
       }
     },
     {
@@ -7345,6 +7387,7 @@
       "at_bats": 341,
       "hits": 90,
       "average": 0.264,
+      "position": "2루수",
       "recent10": {
         "games": 10,
         "at_bats": 38,
@@ -7484,7 +7527,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=65207",
-        "fetched_at": "2026-09-08T04:03:18+09:00"
+        "fetched_at": "2026-09-08T09:42:59+09:00"
       }
     },
     {
@@ -7497,6 +7540,7 @@
       "at_bats": 399,
       "hits": 103,
       "average": 0.258,
+      "position": "1루수",
       "recent10": {
         "games": 10,
         "at_bats": 34,
@@ -7636,7 +7680,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79231",
-        "fetched_at": "2026-09-08T04:03:19+09:00"
+        "fetched_at": "2026-09-08T09:43:00+09:00"
       }
     },
     {
@@ -7649,6 +7693,7 @@
       "at_bats": 391,
       "hits": 100,
       "average": 0.256,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 34,
@@ -7788,7 +7833,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76232",
-        "fetched_at": "2026-09-08T04:03:20+09:00"
+        "fetched_at": "2026-09-08T09:43:01+09:00"
       }
     },
     {
@@ -7801,6 +7846,7 @@
       "at_bats": 450,
       "hits": 110,
       "average": 0.244,
+      "position": "2루수",
       "recent10": {
         "games": 10,
         "at_bats": 35,
@@ -7940,7 +7986,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50854",
-        "fetched_at": "2026-09-08T04:03:20+09:00"
+        "fetched_at": "2026-09-08T09:43:01+09:00"
       }
     },
     {
@@ -7953,6 +7999,7 @@
       "at_bats": 378,
       "hits": 92,
       "average": 0.243,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 24,
@@ -8092,7 +8139,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66108",
-        "fetched_at": "2026-09-08T04:03:21+09:00"
+        "fetched_at": "2026-09-08T09:43:02+09:00"
       }
     },
     {
@@ -8105,6 +8152,7 @@
       "at_bats": 335,
       "hits": 78,
       "average": 0.233,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 27,
@@ -8244,7 +8292,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79109",
-        "fetched_at": "2026-09-08T04:03:21+09:00"
+        "fetched_at": "2026-09-08T09:43:03+09:00"
       }
     },
     {
@@ -8257,6 +8305,7 @@
       "at_bats": 380,
       "hits": 86,
       "average": 0.226,
+      "position": null,
       "recent10": {
         "games": 10,
         "at_bats": 30,
@@ -8396,7 +8445,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78224",
-        "fetched_at": "2026-09-08T04:03:22+09:00"
+        "fetched_at": "2026-09-08T09:43:03+09:00"
       }
     }
   ]
