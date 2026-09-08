@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'scripts/crawl_kbo.py'
+      - 'scripts/enrich_players.py'
       - '.github/workflows/kbo-refresh.yml'
   schedule:
     - cron: '0 15 * * *'
@@ -25,6 +26,9 @@ jobs:
 
       - name: Refresh KBO snapshot
         run: python scripts/crawl_kbo.py
+
+      - name: Enrich positions and player profiles
+        run: python scripts/enrich_players.py
 
       - name: Commit refreshed data
         run: |
