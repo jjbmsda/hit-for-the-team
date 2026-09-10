@@ -361,7 +361,7 @@
         "away": "SSG",
         "home": "두산",
         "time": "18:30",
-        "status": "scheduled",
+        "status": "completed",
         "note": "-",
         "venue": "잠실",
         "game_id": "20260909SKOB0"
@@ -371,7 +371,7 @@
         "away": "KT",
         "home": "삼성",
         "time": "18:30",
-        "status": "scheduled",
+        "status": "completed",
         "note": "-",
         "venue": "대구",
         "game_id": "20260909KTSS0"
@@ -381,7 +381,7 @@
         "away": "NC",
         "home": "KIA",
         "time": "18:30",
-        "status": "scheduled",
+        "status": "completed",
         "note": "-",
         "venue": "광주",
         "game_id": "20260909NCHT0"
@@ -391,7 +391,7 @@
         "away": "LG",
         "home": "한화",
         "time": "18:30",
-        "status": "scheduled",
+        "status": "completed",
         "note": "-",
         "venue": "대전",
         "game_id": "20260909LGHH0"
@@ -401,7 +401,7 @@
         "away": "키움",
         "home": "두산",
         "time": "18:30",
-        "status": "scheduled",
+        "status": "completed",
         "note": "-",
         "venue": "잠실",
         "game_id": "20260910WOOB0"
@@ -411,7 +411,7 @@
         "away": "KT",
         "home": "롯데",
         "time": "18:30",
-        "status": "scheduled",
+        "status": "completed",
         "note": "-",
         "venue": "사직",
         "game_id": "20260910KTLT0"
@@ -421,7 +421,7 @@
         "away": "한화",
         "home": "SSG",
         "time": "18:30",
-        "status": "scheduled",
+        "status": "completed",
         "note": "-",
         "venue": "문학",
         "game_id": "20260910HHSK0"
@@ -431,7 +431,7 @@
         "away": "NC",
         "home": "KIA",
         "time": "18:30",
-        "status": "scheduled",
+        "status": "completed",
         "note": "-",
         "venue": "광주",
         "game_id": "20260910NCHT0"
@@ -644,7 +644,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "광주",
-        "game_id": null
+        "game_id": "20260917WOHT0"
       },
       {
         "date": "2026-09-17",
@@ -654,7 +654,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "창원",
-        "game_id": null
+        "game_id": "20260917SKNC0"
       },
       {
         "date": "2026-09-18",
@@ -664,7 +664,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "잠실",
-        "game_id": null
+        "game_id": "20260918WOOB0"
       },
       {
         "date": "2026-09-18",
@@ -674,7 +674,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "사직",
-        "game_id": null
+        "game_id": "20260918NCLT0"
       },
       {
         "date": "2026-09-18",
@@ -684,7 +684,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "수원",
-        "game_id": null
+        "game_id": "20260918LGKT0"
       },
       {
         "date": "2026-09-18",
@@ -694,7 +694,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "대전",
-        "game_id": null
+        "game_id": "20260918SSHH0"
       },
       {
         "date": "2026-09-19",
@@ -1087,14 +1087,14 @@
         "game_id": null
       }
     ],
-    "fetched_at": "2026-09-09T03:25:31+09:00"
+    "fetched_at": "2026-09-11T03:13:25+09:00"
   },
   "source_url": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
   "defense_source_url": "https://www.koreabaseball.com/Record/Player/Defense/Basic.aspx",
   "season": 2026,
   "series": "KBO 정규시즌",
   "scope": "KBO 기본 타자기록의 기본 조회 대상 · 전체 페이지",
-  "fetched_at": "2026-09-09T03:25:31+09:00",
+  "fetched_at": "2026-09-11T03:13:25+09:00",
   "record_cutoff": null,
   "pages": 2,
   "players": [
@@ -1103,27 +1103,20 @@
       "rank": 1,
       "name": "구자욱",
       "team": "삼성",
-      "games": 103,
-      "plate_appearances": 452,
-      "at_bats": 384,
-      "hits": 139,
+      "games": 104,
+      "plate_appearances": 456,
+      "at_bats": 387,
+      "hits": 140,
       "average": 0.362,
       "position": "좌익수",
       "recent10": {
         "games": 10,
-        "at_bats": 34,
-        "hits": 14,
-        "average": 0.4117647058823529,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 35,
+        "hits": 15,
+        "average": 0.42857142857142855,
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 2,
-            "hits": 0
-          },
           {
             "date": "2026-08-27",
             "opponent": "키움",
@@ -1186,6 +1179,13 @@
             "venue": "홈",
             "at_bats": 2,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=62404"
@@ -1199,9 +1199,9 @@
             "average": 0.33962264150943394
           },
           "KT": {
-            "games": 12,
-            "at_bats": 42,
-            "hits": 14,
+            "games": 13,
+            "at_bats": 45,
+            "hits": 15,
             "average": 0.3333333333333333
           },
           "LG": {
@@ -1248,7 +1248,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62404",
-        "fetched_at": "2026-09-09T03:25:01+09:00"
+        "fetched_at": "2026-09-11T03:12:58+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62404.jpg"
@@ -1258,27 +1258,20 @@
       "rank": 2,
       "name": "레이예스",
       "team": "롯데",
-      "games": 120,
-      "plate_appearances": 526,
-      "at_bats": 478,
+      "games": 121,
+      "plate_appearances": 528,
+      "at_bats": 480,
       "hits": 166,
-      "average": 0.347,
+      "average": 0.346,
       "position": "좌익수",
       "recent10": {
         "games": 10,
-        "at_bats": 39,
-        "hits": 10,
-        "average": 0.2564102564102564,
-        "start_date": "2026-08-25",
-        "end_date": "2026-09-08",
+        "at_bats": 37,
+        "hits": 8,
+        "average": 0.21621621621621623,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-25",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
           {
             "date": "2026-08-26",
             "opponent": "KIA",
@@ -1341,6 +1334,13 @@
             "venue": "방문",
             "at_bats": 5,
             "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 2,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54529"
@@ -1354,10 +1354,10 @@
             "average": 0.36666666666666664
           },
           "KT": {
-            "games": 10,
-            "at_bats": 40,
+            "games": 11,
+            "at_bats": 42,
             "hits": 16,
-            "average": 0.4
+            "average": 0.38095238095238093
           },
           "LG": {
             "games": 13,
@@ -1403,192 +1403,30 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54529",
-        "fetched_at": "2026-09-09T03:25:01+09:00"
+        "fetched_at": "2026-09-11T03:12:58+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54529.jpg"
     },
     {
-      "player_id": "66606",
-      "rank": 3,
-      "name": "최원준",
-      "team": "KT",
-      "games": 115,
-      "plate_appearances": 549,
-      "at_bats": 476,
-      "hits": 163,
-      "average": 0.342,
-      "position": "우익수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 44,
-        "hits": 15,
-        "average": 0.3409090909090909,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "삼성",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "SSG",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 3
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=66606"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 12,
-            "at_bats": 46,
-            "hits": 16,
-            "average": 0.34782608695652173
-          },
-          "LG": {
-            "games": 15,
-            "at_bats": 64,
-            "hits": 22,
-            "average": 0.34375
-          },
-          "NC": {
-            "games": 14,
-            "at_bats": 58,
-            "hits": 19,
-            "average": 0.3275862068965517
-          },
-          "SSG": {
-            "games": 15,
-            "at_bats": 62,
-            "hits": 26,
-            "average": 0.41935483870967744
-          },
-          "두산": {
-            "games": 12,
-            "at_bats": 50,
-            "hits": 13,
-            "average": 0.26
-          },
-          "롯데": {
-            "games": 9,
-            "at_bats": 36,
-            "hits": 6,
-            "average": 0.16666666666666666
-          },
-          "삼성": {
-            "games": 12,
-            "at_bats": 49,
-            "hits": 12,
-            "average": 0.24489795918367346
-          },
-          "키움": {
-            "games": 14,
-            "at_bats": 60,
-            "hits": 26,
-            "average": 0.43333333333333335
-          },
-          "한화": {
-            "games": 12,
-            "at_bats": 51,
-            "hits": 23,
-            "average": 0.45098039215686275
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66606",
-        "fetched_at": "2026-09-09T03:25:01+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66606.jpg"
-    },
-    {
       "player_id": "53123",
-      "rank": 4,
+      "rank": 3,
       "name": "오스틴",
       "team": "LG",
-      "games": 123,
-      "plate_appearances": 547,
-      "at_bats": 468,
-      "hits": 159,
-      "average": 0.34,
+      "games": 124,
+      "plate_appearances": 551,
+      "at_bats": 472,
+      "hits": 161,
+      "average": 0.341,
       "position": "1루수",
       "recent10": {
         "games": 10,
         "at_bats": 37,
         "hits": 13,
         "average": 0.35135135135135137,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
           {
             "date": "2026-08-27",
             "opponent": "NC",
@@ -1651,6 +1489,13 @@
             "venue": "홈",
             "at_bats": 3,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "한화",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=53123"
@@ -1706,51 +1551,192 @@
             "average": 0.38461538461538464
           },
           "한화": {
-            "games": 13,
-            "at_bats": 51,
-            "hits": 19,
-            "average": 0.37254901960784315
+            "games": 14,
+            "at_bats": 55,
+            "hits": 21,
+            "average": 0.38181818181818183
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53123",
-        "fetched_at": "2026-09-09T03:25:02+09:00"
+        "fetched_at": "2026-09-11T03:12:58+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53123.jpg"
     },
     {
-      "player_id": "67893",
-      "rank": 5,
-      "name": "박성한",
-      "team": "SSG",
-      "games": 125,
-      "plate_appearances": 544,
-      "at_bats": 463,
-      "hits": 153,
-      "average": 0.33,
-      "position": "유격수",
+      "player_id": "66606",
+      "rank": 4,
+      "name": "최원준",
+      "team": "KT",
+      "games": 117,
+      "plate_appearances": 559,
+      "at_bats": 485,
+      "hits": 165,
+      "average": 0.34,
+      "position": "우익수",
       "recent10": {
         "games": 10,
-        "at_bats": 36,
-        "hits": 10,
-        "average": 0.2777777777777778,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 43,
+        "hits": 15,
+        "average": 0.3488372093023256,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
           {
-            "date": "2026-08-26",
+            "date": "2026-08-29",
+            "opponent": "삼성",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-01",
             "opponent": "한화",
             "venue": "홈",
             "at_bats": 4,
             "hits": 2
           },
           {
-            "date": "2026-08-27",
+            "date": "2026-09-02",
             "opponent": "한화",
             "venue": "홈",
             "at_bats": 5,
             "hits": 2
           },
+          {
+            "date": "2026-09-03",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 3
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "삼성",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 2
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=66606"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 12,
+            "at_bats": 46,
+            "hits": 16,
+            "average": 0.34782608695652173
+          },
+          "LG": {
+            "games": 15,
+            "at_bats": 64,
+            "hits": 22,
+            "average": 0.34375
+          },
+          "NC": {
+            "games": 14,
+            "at_bats": 58,
+            "hits": 19,
+            "average": 0.3275862068965517
+          },
+          "SSG": {
+            "games": 15,
+            "at_bats": 62,
+            "hits": 26,
+            "average": 0.41935483870967744
+          },
+          "두산": {
+            "games": 12,
+            "at_bats": 50,
+            "hits": 13,
+            "average": 0.26
+          },
+          "롯데": {
+            "games": 10,
+            "at_bats": 41,
+            "hits": 8,
+            "average": 0.1951219512195122
+          },
+          "삼성": {
+            "games": 13,
+            "at_bats": 53,
+            "hits": 12,
+            "average": 0.22641509433962265
+          },
+          "키움": {
+            "games": 14,
+            "at_bats": 60,
+            "hits": 26,
+            "average": 0.43333333333333335
+          },
+          "한화": {
+            "games": 12,
+            "at_bats": 51,
+            "hits": 23,
+            "average": 0.45098039215686275
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66606",
+        "fetched_at": "2026-09-11T03:12:59+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66606.jpg"
+    },
+    {
+      "player_id": "67893",
+      "rank": 5,
+      "name": "박성한",
+      "team": "SSG",
+      "games": 127,
+      "plate_appearances": 552,
+      "at_bats": 469,
+      "hits": 156,
+      "average": 0.333,
+      "position": "유격수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 33,
+        "hits": 9,
+        "average": 0.2727272727272727,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
+        "game_log": [
           {
             "date": "2026-08-29",
             "opponent": "KIA",
@@ -1804,6 +1790,20 @@
             "date": "2026-09-08",
             "opponent": "KT",
             "venue": "방문",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "두산",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "한화",
+            "venue": "홈",
             "at_bats": 3,
             "hits": 1
           }
@@ -1837,10 +1837,10 @@
             "average": 0.3953488372093023
           },
           "두산": {
-            "games": 15,
-            "at_bats": 50,
-            "hits": 10,
-            "average": 0.2
+            "games": 16,
+            "at_bats": 53,
+            "hits": 12,
+            "average": 0.22641509433962265
           },
           "롯데": {
             "games": 15,
@@ -1861,14 +1861,14 @@
             "average": 0.42592592592592593
           },
           "한화": {
-            "games": 14,
-            "at_bats": 52,
-            "hits": 16,
-            "average": 0.3076923076923077
+            "games": 15,
+            "at_bats": 55,
+            "hits": 17,
+            "average": 0.3090909090909091
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67893",
-        "fetched_at": "2026-09-09T03:25:03+09:00"
+        "fetched_at": "2026-09-11T03:12:59+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67893.jpg"
@@ -1878,27 +1878,20 @@
       "rank": 6,
       "name": "김지찬",
       "team": "삼성",
-      "games": 119,
-      "plate_appearances": 476,
-      "at_bats": 398,
-      "hits": 130,
-      "average": 0.327,
+      "games": 120,
+      "plate_appearances": 480,
+      "at_bats": 402,
+      "hits": 131,
+      "average": 0.326,
       "position": "중견수",
       "recent10": {
         "games": 10,
-        "at_bats": 40,
+        "at_bats": 43,
         "hits": 15,
-        "average": 0.375,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "average": 0.3488372093023256,
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 1,
-            "hits": 1
-          },
           {
             "date": "2026-08-27",
             "opponent": "키움",
@@ -1961,6 +1954,13 @@
             "venue": "홈",
             "at_bats": 3,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=50458"
@@ -1974,10 +1974,10 @@
             "average": 0.3333333333333333
           },
           "KT": {
-            "games": 12,
-            "at_bats": 42,
-            "hits": 17,
-            "average": 0.40476190476190477
+            "games": 13,
+            "at_bats": 46,
+            "hits": 18,
+            "average": 0.391304347826087
           },
           "LG": {
             "games": 14,
@@ -2023,7 +2023,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50458",
-        "fetched_at": "2026-09-09T03:25:03+09:00"
+        "fetched_at": "2026-09-11T03:13:00+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50458.jpg"
@@ -2033,27 +2033,20 @@
       "rank": 7,
       "name": "최형우",
       "team": "삼성",
-      "games": 116,
-      "plate_appearances": 499,
-      "at_bats": 421,
-      "hits": 135,
-      "average": 0.321,
+      "games": 117,
+      "plate_appearances": 503,
+      "at_bats": 425,
+      "hits": 137,
+      "average": 0.322,
       "position": ">",
       "recent10": {
         "games": 10,
-        "at_bats": 40,
-        "hits": 11,
-        "average": 0.275,
-        "start_date": "2026-08-25",
-        "end_date": "2026-09-08",
+        "at_bats": 39,
+        "hits": 12,
+        "average": 0.3076923076923077,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-25",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 1
-          },
           {
             "date": "2026-08-26",
             "opponent": "키움",
@@ -2116,6 +2109,13 @@
             "venue": "홈",
             "at_bats": 3,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=72443"
@@ -2129,10 +2129,10 @@
             "average": 0.1951219512195122
           },
           "KT": {
-            "games": 12,
-            "at_bats": 45,
-            "hits": 13,
-            "average": 0.28888888888888886
+            "games": 13,
+            "at_bats": 49,
+            "hits": 15,
+            "average": 0.30612244897959184
           },
           "LG": {
             "games": 13,
@@ -2178,7 +2178,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=72443",
-        "fetched_at": "2026-09-09T03:25:04+09:00"
+        "fetched_at": "2026-09-11T03:13:01+09:00"
       },
       "position_exact": false,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/72443.jpg"
@@ -2188,34 +2188,20 @@
       "rank": 8,
       "name": "박민우",
       "team": "NC",
-      "games": 112,
-      "plate_appearances": 457,
-      "at_bats": 390,
-      "hits": 125,
-      "average": 0.321,
+      "games": 114,
+      "plate_appearances": 466,
+      "at_bats": 398,
+      "hits": 126,
+      "average": 0.317,
       "position": "2루수",
       "recent10": {
         "games": 10,
-        "at_bats": 31,
-        "hits": 9,
-        "average": 0.2903225806451613,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 32,
+        "hits": 7,
+        "average": 0.21875,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 3
-          },
           {
             "date": "2026-08-29",
             "opponent": "한화",
@@ -2271,6 +2257,20 @@
             "venue": "홈",
             "at_bats": 2,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=62907"
@@ -2278,10 +2278,10 @@
       "opponents": {
         "teams": {
           "KIA": {
-            "games": 10,
-            "at_bats": 32,
-            "hits": 14,
-            "average": 0.4375
+            "games": 12,
+            "at_bats": 40,
+            "hits": 15,
+            "average": 0.375
           },
           "KT": {
             "games": 13,
@@ -2333,7 +2333,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62907",
-        "fetched_at": "2026-09-09T03:25:05+09:00"
+        "fetched_at": "2026-09-11T03:13:01+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62907.jpg"
@@ -2343,27 +2343,20 @@
       "rank": 9,
       "name": "서건창",
       "team": "키움",
-      "games": 92,
-      "plate_appearances": 420,
-      "at_bats": 358,
-      "hits": 112,
-      "average": 0.313,
+      "games": 93,
+      "plate_appearances": 424,
+      "at_bats": 362,
+      "hits": 113,
+      "average": 0.312,
       "position": "2루수",
       "recent10": {
         "games": 10,
         "at_bats": 37,
         "hits": 8,
         "average": 0.21621621621621623,
-        "start_date": "2026-08-27",
-        "end_date": "2026-09-08",
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-27",
-            "opponent": "삼성",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
           {
             "date": "2026-08-29",
             "opponent": "두산",
@@ -2426,6 +2419,13 @@
             "venue": "방문",
             "at_bats": 5,
             "hits": 2
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "두산",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=78168"
@@ -2463,10 +2463,10 @@
             "average": 0.3125
           },
           "두산": {
-            "games": 8,
-            "at_bats": 30,
-            "hits": 13,
-            "average": 0.43333333333333335
+            "games": 9,
+            "at_bats": 34,
+            "hits": 14,
+            "average": 0.4117647058823529
           },
           "롯데": {
             "games": 7,
@@ -2488,7 +2488,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78168",
-        "fetched_at": "2026-09-09T03:25:05+09:00"
+        "fetched_at": "2026-09-11T03:13:01+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/78168.jpg"
@@ -2498,34 +2498,20 @@
       "rank": 10,
       "name": "김민석",
       "team": "두산",
-      "games": 115,
-      "plate_appearances": 435,
-      "at_bats": 384,
-      "hits": 119,
-      "average": 0.31,
+      "games": 117,
+      "plate_appearances": 442,
+      "at_bats": 390,
+      "hits": 120,
+      "average": 0.308,
       "position": "좌익수",
       "recent10": {
         "games": 10,
-        "at_bats": 38,
-        "hits": 11,
-        "average": 0.2894736842105263,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 34,
+        "hits": 10,
+        "average": 0.29411764705882354,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 0
-          },
           {
             "date": "2026-08-29",
             "opponent": "키움",
@@ -2581,6 +2567,20 @@
             "venue": "방문",
             "at_bats": 4,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 2,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "키움",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=53554"
@@ -2612,10 +2612,10 @@
             "average": 0.3235294117647059
           },
           "SSG": {
-            "games": 14,
-            "at_bats": 47,
+            "games": 15,
+            "at_bats": 49,
             "hits": 15,
-            "average": 0.3191489361702128
+            "average": 0.30612244897959184
           },
           "롯데": {
             "games": 13,
@@ -2630,10 +2630,10 @@
             "average": 0.2857142857142857
           },
           "키움": {
-            "games": 12,
-            "at_bats": 44,
-            "hits": 10,
-            "average": 0.22727272727272727
+            "games": 13,
+            "at_bats": 48,
+            "hits": 11,
+            "average": 0.22916666666666666
           },
           "한화": {
             "games": 13,
@@ -2643,7 +2643,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53554",
-        "fetched_at": "2026-09-09T03:25:06+09:00"
+        "fetched_at": "2026-09-11T03:13:03+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53554.jpg"
@@ -2653,27 +2653,20 @@
       "rank": 11,
       "name": "김도영",
       "team": "KIA",
-      "games": 121,
-      "plate_appearances": 532,
-      "at_bats": 446,
+      "games": 122,
+      "plate_appearances": 533,
+      "at_bats": 447,
       "hits": 137,
-      "average": 0.307,
+      "average": 0.306,
       "position": "3루수",
       "recent10": {
         "games": 10,
-        "at_bats": 35,
-        "hits": 13,
-        "average": 0.37142857142857144,
-        "start_date": "2026-08-23",
-        "end_date": "2026-09-08",
+        "at_bats": 32,
+        "hits": 12,
+        "average": 0.375,
+        "start_date": "2026-08-25",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-23",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
           {
             "date": "2026-08-25",
             "opponent": "롯데",
@@ -2736,6 +2729,13 @@
             "venue": "방문",
             "at_bats": 5,
             "hits": 2
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 1,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=52605"
@@ -2755,10 +2755,10 @@
             "average": 0.22857142857142856
           },
           "NC": {
-            "games": 11,
-            "at_bats": 36,
+            "games": 12,
+            "at_bats": 37,
             "hits": 10,
-            "average": 0.2777777777777778
+            "average": 0.2702702702702703
           },
           "SSG": {
             "games": 13,
@@ -2798,7 +2798,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52605",
-        "fetched_at": "2026-09-09T03:25:06+09:00"
+        "fetched_at": "2026-09-11T03:13:03+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52605.jpg"
@@ -2808,34 +2808,20 @@
       "rank": 12,
       "name": "문현빈",
       "team": "한화",
-      "games": 119,
-      "plate_appearances": 535,
-      "at_bats": 468,
-      "hits": 143,
-      "average": 0.306,
+      "games": 121,
+      "plate_appearances": 545,
+      "at_bats": 475,
+      "hits": 145,
+      "average": 0.305,
       "position": "좌익수",
       "recent10": {
         "games": 10,
         "at_bats": 40,
-        "hits": 16,
-        "average": 0.4,
-        "start_date": "2026-08-27",
-        "end_date": "2026-09-08",
+        "hits": 17,
+        "average": 0.425,
+        "start_date": "2026-08-30",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-27",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
           {
             "date": "2026-08-30",
             "opponent": "NC",
@@ -2891,6 +2877,20 @@
             "venue": "홈",
             "at_bats": 4,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "LG",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "SSG",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=53764"
@@ -2910,10 +2910,10 @@
             "average": 0.3684210526315789
           },
           "LG": {
-            "games": 13,
-            "at_bats": 50,
-            "hits": 22,
-            "average": 0.44
+            "games": 14,
+            "at_bats": 53,
+            "hits": 24,
+            "average": 0.4528301886792453
           },
           "NC": {
             "games": 11,
@@ -2922,10 +2922,10 @@
             "average": 0.21951219512195122
           },
           "SSG": {
-            "games": 14,
-            "at_bats": 50,
+            "games": 15,
+            "at_bats": 54,
             "hits": 13,
-            "average": 0.26
+            "average": 0.24074074074074073
           },
           "두산": {
             "games": 15,
@@ -2953,192 +2953,30 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53764",
-        "fetched_at": "2026-09-09T03:25:07+09:00"
+        "fetched_at": "2026-09-11T03:13:03+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53764.jpg"
     },
     {
-      "player_id": "67449",
-      "rank": 13,
-      "name": "김성윤",
-      "team": "삼성",
-      "games": 103,
-      "plate_appearances": 405,
-      "at_bats": 347,
-      "hits": 106,
-      "average": 0.305,
-      "position": "우익수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 32,
-        "hits": 10,
-        "average": 0.3125,
-        "start_date": "2026-08-25",
-        "end_date": "2026-09-06",
-        "game_log": [
-          {
-            "date": "2026-08-25",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 1,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-26",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 3
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "KT",
-            "venue": "홈",
-            "at_bats": 2,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "롯데",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "롯데",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "롯데",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 1,
-            "hits": 0
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=67449"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 12,
-            "at_bats": 46,
-            "hits": 14,
-            "average": 0.30434782608695654
-          },
-          "KT": {
-            "games": 11,
-            "at_bats": 35,
-            "hits": 12,
-            "average": 0.34285714285714286
-          },
-          "LG": {
-            "games": 12,
-            "at_bats": 29,
-            "hits": 8,
-            "average": 0.27586206896551724
-          },
-          "NC": {
-            "games": 12,
-            "at_bats": 42,
-            "hits": 11,
-            "average": 0.2619047619047619
-          },
-          "SSG": {
-            "games": 11,
-            "at_bats": 29,
-            "hits": 9,
-            "average": 0.3103448275862069
-          },
-          "두산": {
-            "games": 12,
-            "at_bats": 46,
-            "hits": 18,
-            "average": 0.391304347826087
-          },
-          "롯데": {
-            "games": 13,
-            "at_bats": 52,
-            "hits": 12,
-            "average": 0.23076923076923078
-          },
-          "키움": {
-            "games": 12,
-            "at_bats": 37,
-            "hits": 16,
-            "average": 0.43243243243243246
-          },
-          "한화": {
-            "games": 8,
-            "at_bats": 31,
-            "hits": 6,
-            "average": 0.1935483870967742
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67449",
-        "fetched_at": "2026-09-09T03:25:08+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67449.jpg"
-    },
-    {
       "player_id": "63260",
-      "rank": 14,
+      "rank": 13,
       "name": "이우성",
       "team": "NC",
-      "games": 107,
-      "plate_appearances": 399,
-      "at_bats": 369,
+      "games": 108,
+      "plate_appearances": 400,
+      "at_bats": 370,
       "hits": 112,
-      "average": 0.304,
+      "average": 0.303,
       "position": "좌익수",
       "recent10": {
         "games": 10,
-        "at_bats": 26,
+        "at_bats": 23,
         "hits": 6,
-        "average": 0.23076923076923078,
-        "start_date": "2026-08-23",
-        "end_date": "2026-09-08",
+        "average": 0.2608695652173913,
+        "start_date": "2026-08-25",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-23",
-            "opponent": "삼성",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
           {
             "date": "2026-08-25",
             "opponent": "LG",
@@ -3201,6 +3039,13 @@
             "venue": "홈",
             "at_bats": 1,
             "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 1,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=63260"
@@ -3208,10 +3053,10 @@
       "opponents": {
         "teams": {
           "KIA": {
-            "games": 11,
-            "at_bats": 36,
+            "games": 12,
+            "at_bats": 37,
             "hits": 7,
-            "average": 0.19444444444444445
+            "average": 0.1891891891891892
           },
           "KT": {
             "games": 13,
@@ -3263,44 +3108,340 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=63260",
-        "fetched_at": "2026-09-09T03:25:08+09:00"
+        "fetched_at": "2026-09-11T03:13:04+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/63260.jpg"
     },
     {
-      "player_id": "62947",
-      "rank": 15,
-      "name": "나성범",
-      "team": "KIA",
-      "games": 117,
-      "plate_appearances": 481,
-      "at_bats": 419,
-      "hits": 126,
-      "average": 0.301,
+      "player_id": "67449",
+      "rank": 14,
+      "name": "김성윤",
+      "team": "삼성",
+      "games": 104,
+      "plate_appearances": 409,
+      "at_bats": 351,
+      "hits": 106,
+      "average": 0.302,
       "position": "우익수",
       "recent10": {
         "games": 10,
-        "at_bats": 37,
-        "hits": 14,
-        "average": 0.3783783783783784,
-        "start_date": "2026-08-23",
-        "end_date": "2026-09-08",
+        "at_bats": 35,
+        "hits": 10,
+        "average": 0.2857142857142857,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-09",
         "game_log": [
           {
-            "date": "2026-08-23",
+            "date": "2026-08-26",
             "opponent": "키움",
             "venue": "방문",
-            "at_bats": 5,
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-08-27",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 3
+          },
+          {
+            "date": "2026-08-29",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 2,
             "hits": 1
           },
           {
-            "date": "2026-08-25",
+            "date": "2026-09-01",
             "opponent": "롯데",
             "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "롯데",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-03",
+            "opponent": "롯데",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "LG",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "LG",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "LG",
+            "venue": "방문",
+            "at_bats": 1,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=67449"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 12,
+            "at_bats": 46,
+            "hits": 14,
+            "average": 0.30434782608695654
+          },
+          "KT": {
+            "games": 12,
+            "at_bats": 39,
+            "hits": 12,
+            "average": 0.3076923076923077
+          },
+          "LG": {
+            "games": 12,
+            "at_bats": 29,
+            "hits": 8,
+            "average": 0.27586206896551724
+          },
+          "NC": {
+            "games": 12,
+            "at_bats": 42,
+            "hits": 11,
+            "average": 0.2619047619047619
+          },
+          "SSG": {
+            "games": 11,
+            "at_bats": 29,
+            "hits": 9,
+            "average": 0.3103448275862069
+          },
+          "두산": {
+            "games": 12,
+            "at_bats": 46,
+            "hits": 18,
+            "average": 0.391304347826087
+          },
+          "롯데": {
+            "games": 13,
+            "at_bats": 52,
+            "hits": 12,
+            "average": 0.23076923076923078
+          },
+          "키움": {
+            "games": 12,
+            "at_bats": 37,
+            "hits": 16,
+            "average": 0.43243243243243246
+          },
+          "한화": {
+            "games": 8,
+            "at_bats": 31,
+            "hits": 6,
+            "average": 0.1935483870967742
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67449",
+        "fetched_at": "2026-09-11T03:13:04+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67449.jpg"
+    },
+    {
+      "player_id": "56034",
+      "rank": 15,
+      "name": "힐리어드",
+      "team": "KT",
+      "games": 119,
+      "plate_appearances": 529,
+      "at_bats": 469,
+      "hits": 140,
+      "average": 0.299,
+      "position": "중견수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 43,
+        "hits": 13,
+        "average": 0.3023255813953488,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-26",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-03",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "KIA",
+            "venue": "방문",
             "at_bats": 5,
             "hits": 3
           },
+          {
+            "date": "2026-09-06",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "삼성",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 3
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=56034"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 12,
+            "at_bats": 49,
+            "hits": 17,
+            "average": 0.3469387755102041
+          },
+          "LG": {
+            "games": 15,
+            "at_bats": 63,
+            "hits": 20,
+            "average": 0.31746031746031744
+          },
+          "NC": {
+            "games": 14,
+            "at_bats": 52,
+            "hits": 12,
+            "average": 0.23076923076923078
+          },
+          "SSG": {
+            "games": 15,
+            "at_bats": 63,
+            "hits": 16,
+            "average": 0.25396825396825395
+          },
+          "두산": {
+            "games": 12,
+            "at_bats": 47,
+            "hits": 18,
+            "average": 0.3829787234042553
+          },
+          "롯데": {
+            "games": 11,
+            "at_bats": 39,
+            "hits": 13,
+            "average": 0.3333333333333333
+          },
+          "삼성": {
+            "games": 12,
+            "at_bats": 44,
+            "hits": 13,
+            "average": 0.29545454545454547
+          },
+          "키움": {
+            "games": 14,
+            "at_bats": 52,
+            "hits": 14,
+            "average": 0.2692307692307692
+          },
+          "한화": {
+            "games": 14,
+            "at_bats": 60,
+            "hits": 17,
+            "average": 0.2833333333333333
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=56034",
+        "fetched_at": "2026-09-11T03:13:05+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56034.jpg"
+    },
+    {
+      "player_id": "62947",
+      "rank": 16,
+      "name": "나성범",
+      "team": "KIA",
+      "games": 119,
+      "plate_appearances": 490,
+      "at_bats": 427,
+      "hits": 127,
+      "average": 0.297,
+      "position": "우익수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 35,
+        "hits": 11,
+        "average": 0.3142857142857143,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-10",
+        "game_log": [
           {
             "date": "2026-08-26",
             "opponent": "롯데",
@@ -3356,6 +3497,20 @@
             "venue": "방문",
             "at_bats": 3,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=62947"
@@ -3375,10 +3530,10 @@
             "average": 0.23684210526315788
           },
           "NC": {
-            "games": 10,
-            "at_bats": 35,
-            "hits": 11,
-            "average": 0.3142857142857143
+            "games": 12,
+            "at_bats": 43,
+            "hits": 12,
+            "average": 0.27906976744186046
           },
           "SSG": {
             "games": 13,
@@ -3418,37 +3573,185 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62947",
-        "fetched_at": "2026-09-09T03:25:08+09:00"
+        "fetched_at": "2026-09-11T03:13:06+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62947.jpg"
     },
     {
+      "player_id": "52764",
+      "rank": 17,
+      "name": "허인서",
+      "team": "한화",
+      "games": 109,
+      "plate_appearances": 383,
+      "at_bats": 340,
+      "hits": 100,
+      "average": 0.294,
+      "position": "포수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 34,
+        "hits": 10,
+        "average": 0.29411764705882354,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-29",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-08-30",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-03",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 3
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "LG",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 3
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "SSG",
+            "venue": "방문",
+            "at_bats": 1,
+            "hits": 0
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=52764"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 12,
+            "at_bats": 43,
+            "hits": 10,
+            "average": 0.23255813953488372
+          },
+          "KT": {
+            "games": 14,
+            "at_bats": 41,
+            "hits": 11,
+            "average": 0.2682926829268293
+          },
+          "LG": {
+            "games": 13,
+            "at_bats": 49,
+            "hits": 18,
+            "average": 0.3673469387755102
+          },
+          "NC": {
+            "games": 12,
+            "at_bats": 35,
+            "hits": 9,
+            "average": 0.2571428571428571
+          },
+          "SSG": {
+            "games": 12,
+            "at_bats": 30,
+            "hits": 10,
+            "average": 0.3333333333333333
+          },
+          "두산": {
+            "games": 14,
+            "at_bats": 45,
+            "hits": 12,
+            "average": 0.26666666666666666
+          },
+          "롯데": {
+            "games": 11,
+            "at_bats": 37,
+            "hits": 12,
+            "average": 0.32432432432432434
+          },
+          "삼성": {
+            "games": 11,
+            "at_bats": 32,
+            "hits": 11,
+            "average": 0.34375
+          },
+          "키움": {
+            "games": 10,
+            "at_bats": 28,
+            "hits": 7,
+            "average": 0.25
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52764",
+        "fetched_at": "2026-09-11T03:13:06+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52764.jpg"
+    },
+    {
       "player_id": "54400",
-      "rank": 16,
+      "rank": 18,
       "name": "디아즈",
       "team": "삼성",
-      "games": 122,
-      "plate_appearances": 543,
-      "at_bats": 474,
+      "games": 123,
+      "plate_appearances": 546,
+      "at_bats": 477,
       "hits": 140,
-      "average": 0.295,
+      "average": 0.294,
       "position": "1루수",
       "recent10": {
         "games": 10,
-        "at_bats": 42,
-        "hits": 11,
-        "average": 0.2619047619047619,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 39,
+        "hits": 10,
+        "average": 0.2564102564102564,
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 6,
-            "hits": 1
-          },
           {
             "date": "2026-08-27",
             "opponent": "키움",
@@ -3511,6 +3814,13 @@
             "venue": "홈",
             "at_bats": 4,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54400"
@@ -3524,10 +3834,10 @@
             "average": 0.2037037037037037
           },
           "KT": {
-            "games": 12,
-            "at_bats": 49,
+            "games": 13,
+            "at_bats": 52,
             "hits": 16,
-            "average": 0.32653061224489793
+            "average": 0.3076923076923077
           },
           "LG": {
             "games": 14,
@@ -3573,199 +3883,30 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54400",
-        "fetched_at": "2026-09-09T03:25:10+09:00"
+        "fetched_at": "2026-09-11T03:13:07+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54400.jpg"
     },
     {
-      "player_id": "56034",
-      "rank": 17,
-      "name": "힐리어드",
-      "team": "KT",
-      "games": 117,
-      "plate_appearances": 519,
-      "at_bats": 461,
-      "hits": 136,
-      "average": 0.295,
-      "position": "중견수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 43,
-        "hits": 11,
-        "average": 0.2558139534883721,
-        "start_date": "2026-08-23",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-23",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-08-25",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-26",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 3
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "SSG",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=56034"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 12,
-            "at_bats": 49,
-            "hits": 17,
-            "average": 0.3469387755102041
-          },
-          "LG": {
-            "games": 15,
-            "at_bats": 63,
-            "hits": 20,
-            "average": 0.31746031746031744
-          },
-          "NC": {
-            "games": 14,
-            "at_bats": 52,
-            "hits": 12,
-            "average": 0.23076923076923078
-          },
-          "SSG": {
-            "games": 15,
-            "at_bats": 63,
-            "hits": 16,
-            "average": 0.25396825396825395
-          },
-          "두산": {
-            "games": 12,
-            "at_bats": 47,
-            "hits": 18,
-            "average": 0.3829787234042553
-          },
-          "롯데": {
-            "games": 10,
-            "at_bats": 34,
-            "hits": 10,
-            "average": 0.29411764705882354
-          },
-          "삼성": {
-            "games": 11,
-            "at_bats": 41,
-            "hits": 12,
-            "average": 0.2926829268292683
-          },
-          "키움": {
-            "games": 14,
-            "at_bats": 52,
-            "hits": 14,
-            "average": 0.2692307692307692
-          },
-          "한화": {
-            "games": 14,
-            "at_bats": 60,
-            "hits": 17,
-            "average": 0.2833333333333333
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=56034",
-        "fetched_at": "2026-09-09T03:25:10+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56034.jpg"
-    },
-    {
       "player_id": "54730",
-      "rank": 18,
+      "rank": 19,
       "name": "페라자",
       "team": "한화",
-      "games": 118,
-      "plate_appearances": 508,
-      "at_bats": 415,
-      "hits": 122,
-      "average": 0.294,
+      "games": 120,
+      "plate_appearances": 516,
+      "at_bats": 421,
+      "hits": 123,
+      "average": 0.292,
       "position": "우익수",
       "recent10": {
         "games": 10,
-        "at_bats": 28,
-        "hits": 11,
-        "average": 0.39285714285714285,
-        "start_date": "2026-08-25",
-        "end_date": "2026-09-08",
+        "at_bats": 31,
+        "hits": 12,
+        "average": 0.3870967741935484,
+        "start_date": "2026-08-30",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-25",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 0,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 0
-          },
           {
             "date": "2026-08-30",
             "opponent": "NC",
@@ -3821,6 +3962,20 @@
             "venue": "홈",
             "at_bats": 4,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "LG",
+            "venue": "홈",
+            "at_bats": 2,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "SSG",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54730"
@@ -3840,10 +3995,10 @@
             "average": 0.2978723404255319
           },
           "LG": {
-            "games": 12,
-            "at_bats": 39,
+            "games": 13,
+            "at_bats": 41,
             "hits": 11,
-            "average": 0.28205128205128205
+            "average": 0.2682926829268293
           },
           "NC": {
             "games": 12,
@@ -3852,10 +4007,10 @@
             "average": 0.2564102564102564
           },
           "SSG": {
-            "games": 12,
-            "at_bats": 40,
-            "hits": 16,
-            "average": 0.4
+            "games": 13,
+            "at_bats": 44,
+            "hits": 17,
+            "average": 0.38636363636363635
           },
           "두산": {
             "games": 16,
@@ -3883,44 +4038,30 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54730",
-        "fetched_at": "2026-09-09T03:25:10+09:00"
+        "fetched_at": "2026-09-11T03:13:08+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54730.jpg"
     },
     {
       "player_id": "79215",
-      "rank": 19,
+      "rank": 20,
       "name": "박건우",
       "team": "NC",
-      "games": 114,
-      "plate_appearances": 450,
-      "at_bats": 388,
-      "hits": 114,
-      "average": 0.294,
+      "games": 116,
+      "plate_appearances": 458,
+      "at_bats": 395,
+      "hits": 115,
+      "average": 0.291,
       "position": "우익수",
       "recent10": {
         "games": 10,
-        "at_bats": 33,
+        "at_bats": 35,
         "hits": 10,
-        "average": 0.30303030303030304,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "average": 0.2857142857142857,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 2,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 1
-          },
           {
             "date": "2026-08-29",
             "opponent": "한화",
@@ -3976,6 +4117,20 @@
             "venue": "홈",
             "at_bats": 4,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=79215"
@@ -3983,10 +4138,10 @@
       "opponents": {
         "teams": {
           "KIA": {
-            "games": 11,
-            "at_bats": 33,
-            "hits": 8,
-            "average": 0.24242424242424243
+            "games": 13,
+            "at_bats": 40,
+            "hits": 9,
+            "average": 0.225
           },
           "KT": {
             "games": 14,
@@ -4038,354 +4193,30 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79215",
-        "fetched_at": "2026-09-09T03:25:12+09:00"
+        "fetched_at": "2026-09-11T03:13:08+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79215.jpg"
     },
     {
-      "player_id": "55636",
-      "rank": 20,
-      "name": "박재현",
-      "team": "KIA",
-      "games": 115,
-      "plate_appearances": 481,
-      "at_bats": 447,
-      "hits": 131,
-      "average": 0.293,
-      "position": "좌익수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 45,
-        "hits": 14,
-        "average": 0.3111111111111111,
-        "start_date": "2026-08-22",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-22",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-23",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 3
-          },
-          {
-            "date": "2026-08-25",
-            "opponent": "롯데",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "SSG",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "NC",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "NC",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "KT",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "KT",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "KT",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "삼성",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 3
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=55636"
-      },
-      "opponents": {
-        "teams": {
-          "KT": {
-            "games": 11,
-            "at_bats": 48,
-            "hits": 15,
-            "average": 0.3125
-          },
-          "LG": {
-            "games": 9,
-            "at_bats": 25,
-            "hits": 7,
-            "average": 0.28
-          },
-          "NC": {
-            "games": 10,
-            "at_bats": 35,
-            "hits": 10,
-            "average": 0.2857142857142857
-          },
-          "SSG": {
-            "games": 12,
-            "at_bats": 39,
-            "hits": 9,
-            "average": 0.23076923076923078
-          },
-          "두산": {
-            "games": 15,
-            "at_bats": 59,
-            "hits": 11,
-            "average": 0.1864406779661017
-          },
-          "롯데": {
-            "games": 13,
-            "at_bats": 53,
-            "hits": 16,
-            "average": 0.3018867924528302
-          },
-          "삼성": {
-            "games": 15,
-            "at_bats": 71,
-            "hits": 25,
-            "average": 0.352112676056338
-          },
-          "키움": {
-            "games": 15,
-            "at_bats": 65,
-            "hits": 23,
-            "average": 0.35384615384615387
-          },
-          "한화": {
-            "games": 15,
-            "at_bats": 52,
-            "hits": 15,
-            "average": 0.28846153846153844
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=55636",
-        "fetched_at": "2026-09-09T03:25:12+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55636.jpg"
-    },
-    {
-      "player_id": "52764",
-      "rank": 21,
-      "name": "허인서",
-      "team": "한화",
-      "games": 107,
-      "plate_appearances": 377,
-      "at_bats": 334,
-      "hits": 97,
-      "average": 0.29,
-      "position": "포수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 35,
-        "hits": 9,
-        "average": 0.2571428571428571,
-        "start_date": "2026-08-25",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-25",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-30",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 3
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=52764"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 12,
-            "at_bats": 43,
-            "hits": 10,
-            "average": 0.23255813953488372
-          },
-          "KT": {
-            "games": 14,
-            "at_bats": 41,
-            "hits": 11,
-            "average": 0.2682926829268293
-          },
-          "LG": {
-            "games": 12,
-            "at_bats": 44,
-            "hits": 15,
-            "average": 0.3409090909090909
-          },
-          "NC": {
-            "games": 12,
-            "at_bats": 35,
-            "hits": 9,
-            "average": 0.2571428571428571
-          },
-          "SSG": {
-            "games": 11,
-            "at_bats": 29,
-            "hits": 10,
-            "average": 0.3448275862068966
-          },
-          "두산": {
-            "games": 14,
-            "at_bats": 45,
-            "hits": 12,
-            "average": 0.26666666666666666
-          },
-          "롯데": {
-            "games": 11,
-            "at_bats": 37,
-            "hits": 12,
-            "average": 0.32432432432432434
-          },
-          "삼성": {
-            "games": 11,
-            "at_bats": 32,
-            "hits": 11,
-            "average": 0.34375
-          },
-          "키움": {
-            "games": 10,
-            "at_bats": 28,
-            "hits": 7,
-            "average": 0.25
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52764",
-        "fetched_at": "2026-09-09T03:25:12+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52764.jpg"
-    },
-    {
       "player_id": "51907",
-      "rank": 22,
+      "rank": 21,
       "name": "김주원",
       "team": "NC",
-      "games": 116,
-      "plate_appearances": 523,
-      "at_bats": 458,
-      "hits": 133,
+      "games": 118,
+      "plate_appearances": 532,
+      "at_bats": 466,
+      "hits": 135,
       "average": 0.29,
       "position": "유격수",
       "recent10": {
         "games": 10,
         "at_bats": 43,
-        "hits": 12,
-        "average": 0.27906976744186046,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "hits": 9,
+        "average": 0.20930232558139536,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 5
-          },
           {
             "date": "2026-08-29",
             "opponent": "한화",
@@ -4441,6 +4272,20 @@
             "venue": "홈",
             "at_bats": 4,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=51907"
@@ -4448,10 +4293,10 @@
       "opponents": {
         "teams": {
           "KIA": {
-            "games": 11,
-            "at_bats": 42,
-            "hits": 8,
-            "average": 0.19047619047619047
+            "games": 13,
+            "at_bats": 50,
+            "hits": 10,
+            "average": 0.2
           },
           "KT": {
             "games": 14,
@@ -4503,37 +4348,185 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=51907",
-        "fetched_at": "2026-09-09T03:25:14+09:00"
+        "fetched_at": "2026-09-11T03:13:08+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/51907.jpg"
+    },
+    {
+      "player_id": "55636",
+      "rank": 22,
+      "name": "박재현",
+      "team": "KIA",
+      "games": 117,
+      "plate_appearances": 491,
+      "at_bats": 456,
+      "hits": 132,
+      "average": 0.289,
+      "position": "좌익수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 45,
+        "hits": 12,
+        "average": 0.26666666666666666,
+        "start_date": "2026-08-25",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-25",
+            "opponent": "롯데",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-08-29",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "NC",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "NC",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "삼성",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 3
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 0
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=55636"
+      },
+      "opponents": {
+        "teams": {
+          "KT": {
+            "games": 11,
+            "at_bats": 48,
+            "hits": 15,
+            "average": 0.3125
+          },
+          "LG": {
+            "games": 9,
+            "at_bats": 25,
+            "hits": 7,
+            "average": 0.28
+          },
+          "NC": {
+            "games": 12,
+            "at_bats": 44,
+            "hits": 11,
+            "average": 0.25
+          },
+          "SSG": {
+            "games": 12,
+            "at_bats": 39,
+            "hits": 9,
+            "average": 0.23076923076923078
+          },
+          "두산": {
+            "games": 15,
+            "at_bats": 59,
+            "hits": 11,
+            "average": 0.1864406779661017
+          },
+          "롯데": {
+            "games": 13,
+            "at_bats": 53,
+            "hits": 16,
+            "average": 0.3018867924528302
+          },
+          "삼성": {
+            "games": 15,
+            "at_bats": 71,
+            "hits": 25,
+            "average": 0.352112676056338
+          },
+          "키움": {
+            "games": 15,
+            "at_bats": 65,
+            "hits": 23,
+            "average": 0.35384615384615387
+          },
+          "한화": {
+            "games": 15,
+            "at_bats": 52,
+            "hits": 15,
+            "average": 0.28846153846153844
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=55636",
+        "fetched_at": "2026-09-11T03:13:10+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55636.jpg"
     },
     {
       "player_id": "50500",
       "rank": 23,
       "name": "황성빈",
       "team": "롯데",
-      "games": 99,
-      "plate_appearances": 407,
-      "at_bats": 373,
+      "games": 100,
+      "plate_appearances": 409,
+      "at_bats": 374,
       "hits": 108,
-      "average": 0.29,
+      "average": 0.289,
       "position": "중견수",
       "recent10": {
         "games": 10,
-        "at_bats": 34,
+        "at_bats": 32,
         "hits": 9,
-        "average": 0.2647058823529412,
-        "start_date": "2026-08-23",
-        "end_date": "2026-09-06",
+        "average": 0.28125,
+        "start_date": "2026-08-25",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-23",
-            "opponent": "두산",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
           {
             "date": "2026-08-25",
             "opponent": "KIA",
@@ -4596,6 +4589,13 @@
             "venue": "홈",
             "at_bats": 1,
             "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 1,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=50500"
@@ -4609,10 +4609,10 @@
             "average": 0.25
           },
           "KT": {
-            "games": 8,
-            "at_bats": 35,
+            "games": 9,
+            "at_bats": 36,
             "hits": 11,
-            "average": 0.3142857142857143
+            "average": 0.3055555555555556
           },
           "LG": {
             "games": 10,
@@ -4658,37 +4658,185 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50500",
-        "fetched_at": "2026-09-09T03:25:14+09:00"
+        "fetched_at": "2026-09-11T03:13:10+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50500.jpg"
     },
     {
-      "player_id": "62234",
+      "player_id": "68050",
       "rank": 24,
+      "name": "강백호",
+      "team": "한화",
+      "games": 110,
+      "plate_appearances": 482,
+      "at_bats": 428,
+      "hits": 123,
+      "average": 0.287,
+      "position": ">",
+      "recent10": {
+        "games": 10,
+        "at_bats": 40,
+        "hits": 11,
+        "average": 0.275,
+        "start_date": "2026-08-30",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-30",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-03",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 3
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "LG",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "SSG",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=68050"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 12,
+            "at_bats": 47,
+            "hits": 15,
+            "average": 0.3191489361702128
+          },
+          "KT": {
+            "games": 14,
+            "at_bats": 59,
+            "hits": 18,
+            "average": 0.3050847457627119
+          },
+          "LG": {
+            "games": 11,
+            "at_bats": 46,
+            "hits": 14,
+            "average": 0.30434782608695654
+          },
+          "NC": {
+            "games": 12,
+            "at_bats": 44,
+            "hits": 12,
+            "average": 0.2727272727272727
+          },
+          "SSG": {
+            "games": 15,
+            "at_bats": 58,
+            "hits": 14,
+            "average": 0.2413793103448276
+          },
+          "두산": {
+            "games": 13,
+            "at_bats": 51,
+            "hits": 9,
+            "average": 0.17647058823529413
+          },
+          "롯데": {
+            "games": 9,
+            "at_bats": 32,
+            "hits": 13,
+            "average": 0.40625
+          },
+          "삼성": {
+            "games": 12,
+            "at_bats": 44,
+            "hits": 11,
+            "average": 0.25
+          },
+          "키움": {
+            "games": 12,
+            "at_bats": 47,
+            "hits": 17,
+            "average": 0.3617021276595745
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68050",
+        "fetched_at": "2026-09-11T03:13:10+09:00"
+      },
+      "position_exact": false,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68050.jpg"
+    },
+    {
+      "player_id": "62234",
+      "rank": 25,
       "name": "류지혁",
       "team": "삼성",
-      "games": 118,
-      "plate_appearances": 463,
-      "at_bats": 394,
+      "games": 119,
+      "plate_appearances": 466,
+      "at_bats": 397,
       "hits": 114,
-      "average": 0.289,
+      "average": 0.287,
       "position": "2루수",
       "recent10": {
         "games": 10,
-        "at_bats": 29,
-        "hits": 11,
-        "average": 0.3793103448275862,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 30,
+        "hits": 10,
+        "average": 0.3333333333333333,
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 2,
-            "hits": 1
-          },
           {
             "date": "2026-08-27",
             "opponent": "키움",
@@ -4751,6 +4899,13 @@
             "venue": "홈",
             "at_bats": 1,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=62234"
@@ -4764,10 +4919,10 @@
             "average": 0.3829787234042553
           },
           "KT": {
-            "games": 12,
-            "at_bats": 37,
+            "games": 13,
+            "at_bats": 40,
             "hits": 11,
-            "average": 0.2972972972972973
+            "average": 0.275
           },
           "LG": {
             "games": 13,
@@ -4813,199 +4968,30 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62234",
-        "fetched_at": "2026-09-09T03:25:14+09:00"
+        "fetched_at": "2026-09-11T03:13:11+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62234.jpg"
-    },
-    {
-      "player_id": "68050",
-      "rank": 25,
-      "name": "강백호",
-      "team": "한화",
-      "games": 108,
-      "plate_appearances": 473,
-      "at_bats": 422,
-      "hits": 122,
-      "average": 0.289,
-      "position": ">",
-      "recent10": {
-        "games": 10,
-        "at_bats": 41,
-        "hits": 11,
-        "average": 0.2682926829268293,
-        "start_date": "2026-08-27",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-27",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-30",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 3
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=68050"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 12,
-            "at_bats": 47,
-            "hits": 15,
-            "average": 0.3191489361702128
-          },
-          "KT": {
-            "games": 14,
-            "at_bats": 59,
-            "hits": 18,
-            "average": 0.3050847457627119
-          },
-          "LG": {
-            "games": 10,
-            "at_bats": 43,
-            "hits": 13,
-            "average": 0.3023255813953488
-          },
-          "NC": {
-            "games": 12,
-            "at_bats": 44,
-            "hits": 12,
-            "average": 0.2727272727272727
-          },
-          "SSG": {
-            "games": 14,
-            "at_bats": 55,
-            "hits": 14,
-            "average": 0.2545454545454545
-          },
-          "두산": {
-            "games": 13,
-            "at_bats": 51,
-            "hits": 9,
-            "average": 0.17647058823529413
-          },
-          "롯데": {
-            "games": 9,
-            "at_bats": 32,
-            "hits": 13,
-            "average": 0.40625
-          },
-          "삼성": {
-            "games": 12,
-            "at_bats": 44,
-            "hits": 11,
-            "average": 0.25
-          },
-          "키움": {
-            "games": 12,
-            "at_bats": 47,
-            "hits": 17,
-            "average": 0.3617021276595745
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68050",
-        "fetched_at": "2026-09-09T03:25:16+09:00"
-      },
-      "position_exact": false,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68050.jpg"
     },
     {
       "player_id": "79402",
       "rank": 26,
       "name": "김상수",
       "team": "KT",
-      "games": 110,
-      "plate_appearances": 421,
-      "at_bats": 353,
-      "hits": 101,
-      "average": 0.286,
+      "games": 112,
+      "plate_appearances": 429,
+      "at_bats": 359,
+      "hits": 102,
+      "average": 0.284,
       "position": "2루수",
       "recent10": {
         "games": 10,
-        "at_bats": 32,
-        "hits": 11,
-        "average": 0.34375,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 31,
+        "hits": 8,
+        "average": 0.25806451612903225,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 3
-          },
           {
             "date": "2026-08-29",
             "opponent": "삼성",
@@ -5061,6 +5047,20 @@
             "venue": "홈",
             "at_bats": 4,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "삼성",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 2,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=79402"
@@ -5098,16 +5098,16 @@
             "average": 0.36363636363636365
           },
           "롯데": {
-            "games": 10,
-            "at_bats": 31,
-            "hits": 10,
-            "average": 0.3225806451612903
+            "games": 11,
+            "at_bats": 33,
+            "hits": 11,
+            "average": 0.3333333333333333
           },
           "삼성": {
-            "games": 11,
-            "at_bats": 39,
+            "games": 12,
+            "at_bats": 43,
             "hits": 10,
-            "average": 0.2564102564102564
+            "average": 0.23255813953488372
           },
           "키움": {
             "games": 14,
@@ -5123,7 +5123,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79402",
-        "fetched_at": "2026-09-09T03:25:16+09:00"
+        "fetched_at": "2026-09-11T03:13:11+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79402.jpg"
@@ -5133,34 +5133,20 @@
       "rank": 27,
       "name": "박찬호",
       "team": "두산",
-      "games": 123,
-      "plate_appearances": 523,
-      "at_bats": 458,
-      "hits": 131,
-      "average": 0.286,
+      "games": 125,
+      "plate_appearances": 531,
+      "at_bats": 465,
+      "hits": 132,
+      "average": 0.284,
       "position": "유격수",
       "recent10": {
         "games": 10,
-        "at_bats": 35,
-        "hits": 9,
-        "average": 0.2571428571428571,
-        "start_date": "2026-08-27",
-        "end_date": "2026-09-08",
+        "at_bats": 34,
+        "hits": 6,
+        "average": 0.17647058823529413,
+        "start_date": "2026-08-30",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-27",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "키움",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 2
-          },
           {
             "date": "2026-08-30",
             "opponent": "키움",
@@ -5216,6 +5202,20 @@
             "venue": "방문",
             "at_bats": 4,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "키움",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=64646"
@@ -5247,10 +5247,10 @@
             "average": 0.32558139534883723
           },
           "SSG": {
-            "games": 15,
-            "at_bats": 52,
-            "hits": 10,
-            "average": 0.19230769230769232
+            "games": 16,
+            "at_bats": 55,
+            "hits": 11,
+            "average": 0.2
           },
           "롯데": {
             "games": 14,
@@ -5265,10 +5265,10 @@
             "average": 0.3333333333333333
           },
           "키움": {
-            "games": 13,
-            "at_bats": 45,
+            "games": 14,
+            "at_bats": 49,
             "hits": 17,
-            "average": 0.37777777777777777
+            "average": 0.3469387755102041
           },
           "한화": {
             "games": 16,
@@ -5278,353 +5278,30 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=64646",
-        "fetched_at": "2026-09-09T03:25:16+09:00"
+        "fetched_at": "2026-09-11T03:13:12+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64646.jpg"
     },
     {
-      "player_id": "53827",
-      "rank": 28,
-      "name": "에레디아",
-      "team": "SSG",
-      "games": 97,
-      "plate_appearances": 423,
-      "at_bats": 386,
-      "hits": 110,
-      "average": 0.285,
-      "position": "좌익수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 39,
-        "hits": 11,
-        "average": 0.28205128205128205,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 1,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=53827"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 9,
-            "at_bats": 39,
-            "hits": 11,
-            "average": 0.28205128205128205
-          },
-          "KT": {
-            "games": 15,
-            "at_bats": 58,
-            "hits": 21,
-            "average": 0.3620689655172414
-          },
-          "LG": {
-            "games": 9,
-            "at_bats": 35,
-            "hits": 10,
-            "average": 0.2857142857142857
-          },
-          "NC": {
-            "games": 8,
-            "at_bats": 34,
-            "hits": 6,
-            "average": 0.17647058823529413
-          },
-          "두산": {
-            "games": 10,
-            "at_bats": 34,
-            "hits": 9,
-            "average": 0.2647058823529412
-          },
-          "롯데": {
-            "games": 9,
-            "at_bats": 39,
-            "hits": 11,
-            "average": 0.28205128205128205
-          },
-          "삼성": {
-            "games": 11,
-            "at_bats": 40,
-            "hits": 13,
-            "average": 0.325
-          },
-          "키움": {
-            "games": 12,
-            "at_bats": 51,
-            "hits": 15,
-            "average": 0.29411764705882354
-          },
-          "한화": {
-            "games": 14,
-            "at_bats": 56,
-            "hits": 14,
-            "average": 0.25
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53827",
-        "fetched_at": "2026-09-09T03:25:18+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53827.jpg"
-    },
-    {
-      "player_id": "54944",
-      "rank": 29,
-      "name": "데이비슨",
-      "team": "키움",
-      "games": 108,
-      "plate_appearances": 449,
-      "at_bats": 400,
-      "hits": 113,
-      "average": 0.283,
-      "position": "1루수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 41,
-        "hits": 12,
-        "average": 0.2926829268292683,
-        "start_date": "2026-08-27",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-27",
-            "opponent": "삼성",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "두산",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-30",
-            "opponent": "두산",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "SSG",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "SSG",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "SSG",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "LG",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 1
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54944"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 12,
-            "at_bats": 48,
-            "hits": 15,
-            "average": 0.3125
-          },
-          "KT": {
-            "games": 12,
-            "at_bats": 44,
-            "hits": 7,
-            "average": 0.1590909090909091
-          },
-          "LG": {
-            "games": 15,
-            "at_bats": 63,
-            "hits": 17,
-            "average": 0.2698412698412698
-          },
-          "NC": {
-            "games": 3,
-            "at_bats": 11,
-            "hits": 4,
-            "average": 0.36363636363636365
-          },
-          "SSG": {
-            "games": 14,
-            "at_bats": 45,
-            "hits": 16,
-            "average": 0.35555555555555557
-          },
-          "두산": {
-            "games": 8,
-            "at_bats": 24,
-            "hits": 5,
-            "average": 0.20833333333333334
-          },
-          "롯데": {
-            "games": 13,
-            "at_bats": 50,
-            "hits": 15,
-            "average": 0.3
-          },
-          "삼성": {
-            "games": 12,
-            "at_bats": 46,
-            "hits": 13,
-            "average": 0.2826086956521739
-          },
-          "키움": {
-            "games": 7,
-            "at_bats": 24,
-            "hits": 7,
-            "average": 0.2916666666666667
-          },
-          "한화": {
-            "games": 12,
-            "at_bats": 45,
-            "hits": 14,
-            "average": 0.3111111111111111
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54944",
-        "fetched_at": "2026-09-09T03:25:18+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54944.jpg"
-    },
-    {
       "player_id": "62415",
-      "rank": 30,
+      "rank": 28,
       "name": "박해민",
       "team": "LG",
-      "games": 123,
-      "plate_appearances": 495,
-      "at_bats": 412,
-      "hits": 116,
-      "average": 0.282,
+      "games": 124,
+      "plate_appearances": 499,
+      "at_bats": 416,
+      "hits": 118,
+      "average": 0.284,
       "position": "중견수",
       "recent10": {
         "games": 10,
         "at_bats": 36,
-        "hits": 9,
-        "average": 0.25,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "hits": 10,
+        "average": 0.2777777777777778,
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
           {
             "date": "2026-08-27",
             "opponent": "NC",
@@ -5687,6 +5364,13 @@
             "venue": "홈",
             "at_bats": 2,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "한화",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=62415"
@@ -5742,44 +5426,347 @@
             "average": 0.2631578947368421
           },
           "한화": {
-            "games": 13,
-            "at_bats": 39,
-            "hits": 12,
-            "average": 0.3076923076923077
+            "games": 14,
+            "at_bats": 43,
+            "hits": 14,
+            "average": 0.32558139534883723
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62415",
-        "fetched_at": "2026-09-09T03:25:18+09:00"
+        "fetched_at": "2026-09-11T03:13:13+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62415.jpg"
+    },
+    {
+      "player_id": "53827",
+      "rank": 29,
+      "name": "에레디아",
+      "team": "SSG",
+      "games": 99,
+      "plate_appearances": 431,
+      "at_bats": 392,
+      "hits": 111,
+      "average": 0.283,
+      "position": "좌익수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 36,
+        "hits": 10,
+        "average": 0.2777777777777778,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-29",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-03",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 1,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "두산",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 2,
+            "hits": 0
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=53827"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 9,
+            "at_bats": 39,
+            "hits": 11,
+            "average": 0.28205128205128205
+          },
+          "KT": {
+            "games": 15,
+            "at_bats": 58,
+            "hits": 21,
+            "average": 0.3620689655172414
+          },
+          "LG": {
+            "games": 9,
+            "at_bats": 35,
+            "hits": 10,
+            "average": 0.2857142857142857
+          },
+          "NC": {
+            "games": 8,
+            "at_bats": 34,
+            "hits": 6,
+            "average": 0.17647058823529413
+          },
+          "두산": {
+            "games": 11,
+            "at_bats": 38,
+            "hits": 10,
+            "average": 0.2631578947368421
+          },
+          "롯데": {
+            "games": 9,
+            "at_bats": 39,
+            "hits": 11,
+            "average": 0.28205128205128205
+          },
+          "삼성": {
+            "games": 11,
+            "at_bats": 40,
+            "hits": 13,
+            "average": 0.325
+          },
+          "키움": {
+            "games": 12,
+            "at_bats": 51,
+            "hits": 15,
+            "average": 0.29411764705882354
+          },
+          "한화": {
+            "games": 15,
+            "at_bats": 58,
+            "hits": 14,
+            "average": 0.2413793103448276
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53827",
+        "fetched_at": "2026-09-11T03:13:13+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53827.jpg"
+    },
+    {
+      "player_id": "69737",
+      "rank": 30,
+      "name": "노시환",
+      "team": "한화",
+      "games": 116,
+      "plate_appearances": 524,
+      "at_bats": 462,
+      "hits": 130,
+      "average": 0.281,
+      "position": "3루수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 44,
+        "hits": 14,
+        "average": 0.3181818181818182,
+        "start_date": "2026-08-30",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-30",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-03",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 3
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "LG",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "SSG",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=69737"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 15,
+            "at_bats": 61,
+            "hits": 15,
+            "average": 0.2459016393442623
+          },
+          "KT": {
+            "games": 14,
+            "at_bats": 57,
+            "hits": 10,
+            "average": 0.17543859649122806
+          },
+          "LG": {
+            "games": 12,
+            "at_bats": 49,
+            "hits": 19,
+            "average": 0.3877551020408163
+          },
+          "NC": {
+            "games": 12,
+            "at_bats": 45,
+            "hits": 9,
+            "average": 0.2
+          },
+          "SSG": {
+            "games": 15,
+            "at_bats": 55,
+            "hits": 19,
+            "average": 0.34545454545454546
+          },
+          "두산": {
+            "games": 16,
+            "at_bats": 61,
+            "hits": 18,
+            "average": 0.29508196721311475
+          },
+          "롯데": {
+            "games": 11,
+            "at_bats": 49,
+            "hits": 13,
+            "average": 0.2653061224489796
+          },
+          "삼성": {
+            "games": 9,
+            "at_bats": 34,
+            "hits": 10,
+            "average": 0.29411764705882354
+          },
+          "키움": {
+            "games": 12,
+            "at_bats": 51,
+            "hits": 17,
+            "average": 0.3333333333333333
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69737",
+        "fetched_at": "2026-09-11T03:13:14+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69737.jpg"
     },
     {
       "player_id": "69517",
       "rank": 31,
       "name": "고승민",
       "team": "롯데",
-      "games": 89,
-      "plate_appearances": 393,
-      "at_bats": 357,
-      "hits": 100,
-      "average": 0.28,
+      "games": 90,
+      "plate_appearances": 396,
+      "at_bats": 360,
+      "hits": 101,
+      "average": 0.281,
       "position": "2루수",
       "recent10": {
         "games": 10,
-        "at_bats": 40,
+        "at_bats": 39,
         "hits": 11,
-        "average": 0.275,
-        "start_date": "2026-08-25",
-        "end_date": "2026-09-08",
+        "average": 0.28205128205128205,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-25",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
           {
             "date": "2026-08-26",
             "opponent": "KIA",
@@ -5842,6 +5829,13 @@
             "venue": "방문",
             "at_bats": 5,
             "hits": 3
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=69517"
@@ -5855,10 +5849,10 @@
             "average": 0.25
           },
           "KT": {
-            "games": 8,
-            "at_bats": 32,
-            "hits": 13,
-            "average": 0.40625
+            "games": 9,
+            "at_bats": 35,
+            "hits": 14,
+            "average": 0.4
           },
           "LG": {
             "games": 10,
@@ -5904,502 +5898,191 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69517",
-        "fetched_at": "2026-09-09T03:25:20+09:00"
+        "fetched_at": "2026-09-11T03:13:15+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69517.jpg"
     },
     {
-      "player_id": "69737",
+      "player_id": "54944",
       "rank": 32,
-      "name": "노시환",
-      "team": "한화",
-      "games": 114,
-      "plate_appearances": 515,
-      "at_bats": 454,
-      "hits": 127,
+      "name": "데이비슨",
+      "team": "키움",
+      "games": 109,
+      "plate_appearances": 453,
+      "at_bats": 403,
+      "hits": 113,
       "average": 0.28,
-      "position": "3루수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 42,
-        "hits": 12,
-        "average": 0.2857142857142857,
-        "start_date": "2026-08-27",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-27",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-30",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 3
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=69737"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 15,
-            "at_bats": 61,
-            "hits": 15,
-            "average": 0.2459016393442623
-          },
-          "KT": {
-            "games": 14,
-            "at_bats": 57,
-            "hits": 10,
-            "average": 0.17543859649122806
-          },
-          "LG": {
-            "games": 11,
-            "at_bats": 45,
-            "hits": 17,
-            "average": 0.37777777777777777
-          },
-          "NC": {
-            "games": 12,
-            "at_bats": 45,
-            "hits": 9,
-            "average": 0.2
-          },
-          "SSG": {
-            "games": 14,
-            "at_bats": 51,
-            "hits": 18,
-            "average": 0.35294117647058826
-          },
-          "두산": {
-            "games": 16,
-            "at_bats": 61,
-            "hits": 18,
-            "average": 0.29508196721311475
-          },
-          "롯데": {
-            "games": 11,
-            "at_bats": 49,
-            "hits": 13,
-            "average": 0.2653061224489796
-          },
-          "삼성": {
-            "games": 9,
-            "at_bats": 34,
-            "hits": 10,
-            "average": 0.29411764705882354
-          },
-          "키움": {
-            "games": 12,
-            "at_bats": 51,
-            "hits": 17,
-            "average": 0.3333333333333333
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69737",
-        "fetched_at": "2026-09-09T03:25:20+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69737.jpg"
-    },
-    {
-      "player_id": "78603",
-      "rank": 33,
-      "name": "김선빈",
-      "team": "KIA",
-      "games": 115,
-      "plate_appearances": 447,
-      "at_bats": 379,
-      "hits": 105,
-      "average": 0.277,
-      "position": "2루수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 32,
-        "hits": 9,
-        "average": 0.28125,
-        "start_date": "2026-08-23",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-23",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-25",
-            "opponent": "롯데",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-26",
-            "opponent": "롯데",
-            "venue": "홈",
-            "at_bats": 1,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "SSG",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "NC",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "NC",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "KT",
-            "venue": "홈",
-            "at_bats": 2,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "KT",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-06",
-            "opponent": "KT",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "삼성",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 1
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=78603"
-      },
-      "opponents": {
-        "teams": {
-          "KT": {
-            "games": 12,
-            "at_bats": 38,
-            "hits": 14,
-            "average": 0.3684210526315789
-          },
-          "LG": {
-            "games": 11,
-            "at_bats": 37,
-            "hits": 6,
-            "average": 0.16216216216216217
-          },
-          "NC": {
-            "games": 11,
-            "at_bats": 41,
-            "hits": 8,
-            "average": 0.1951219512195122
-          },
-          "SSG": {
-            "games": 13,
-            "at_bats": 44,
-            "hits": 16,
-            "average": 0.36363636363636365
-          },
-          "두산": {
-            "games": 14,
-            "at_bats": 48,
-            "hits": 14,
-            "average": 0.2916666666666667
-          },
-          "롯데": {
-            "games": 14,
-            "at_bats": 46,
-            "hits": 9,
-            "average": 0.1956521739130435
-          },
-          "삼성": {
-            "games": 13,
-            "at_bats": 40,
-            "hits": 15,
-            "average": 0.375
-          },
-          "키움": {
-            "games": 13,
-            "at_bats": 41,
-            "hits": 12,
-            "average": 0.2926829268292683
-          },
-          "한화": {
-            "games": 14,
-            "at_bats": 44,
-            "hits": 11,
-            "average": 0.25
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78603",
-        "fetched_at": "2026-09-09T03:25:20+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/78603.jpg"
-    },
-    {
-      "player_id": "66704",
-      "rank": 34,
-      "name": "김태연",
-      "team": "한화",
-      "games": 107,
-      "plate_appearances": 376,
-      "at_bats": 320,
-      "hits": 88,
-      "average": 0.275,
       "position": "1루수",
       "recent10": {
         "games": 10,
-        "at_bats": 38,
-        "hits": 8,
-        "average": 0.21052631578947367,
-        "start_date": "2026-08-27",
-        "end_date": "2026-09-08",
+        "at_bats": 40,
+        "hits": 11,
+        "average": 0.275,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
           {
-            "date": "2026-08-27",
-            "opponent": "SSG",
+            "date": "2026-08-29",
+            "opponent": "두산",
             "venue": "방문",
             "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 2,
             "hits": 0
           },
           {
             "date": "2026-08-30",
+            "opponent": "두산",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-03",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-04",
             "opponent": "NC",
             "venue": "홈",
             "at_bats": 4,
             "hits": 1
           },
           {
-            "date": "2026-09-01",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
             "date": "2026-09-05",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 1
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
           },
           {
             "date": "2026-09-06",
-            "opponent": "롯데",
-            "venue": "방문",
-            "at_bats": 5,
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 3,
             "hits": 1
           },
           {
             "date": "2026-09-08",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 3,
+            "opponent": "LG",
+            "venue": "방문",
+            "at_bats": 5,
             "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "두산",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
           }
         ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=66704"
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54944"
       },
       "opponents": {
         "teams": {
           "KIA": {
-            "games": 14,
-            "at_bats": 37,
-            "hits": 11,
-            "average": 0.2972972972972973
+            "games": 12,
+            "at_bats": 48,
+            "hits": 15,
+            "average": 0.3125
           },
           "KT": {
-            "games": 9,
-            "at_bats": 27,
+            "games": 12,
+            "at_bats": 44,
             "hits": 7,
-            "average": 0.25925925925925924
+            "average": 0.1590909090909091
           },
           "LG": {
-            "games": 13,
-            "at_bats": 45,
-            "hits": 14,
-            "average": 0.3111111111111111
+            "games": 15,
+            "at_bats": 63,
+            "hits": 17,
+            "average": 0.2698412698412698
           },
           "NC": {
-            "games": 10,
-            "at_bats": 29,
-            "hits": 8,
-            "average": 0.27586206896551724
+            "games": 3,
+            "at_bats": 11,
+            "hits": 4,
+            "average": 0.36363636363636365
           },
           "SSG": {
-            "games": 12,
-            "at_bats": 33,
-            "hits": 6,
-            "average": 0.18181818181818182
+            "games": 14,
+            "at_bats": 45,
+            "hits": 16,
+            "average": 0.35555555555555557
           },
           "두산": {
-            "games": 14,
-            "at_bats": 43,
-            "hits": 11,
-            "average": 0.2558139534883721
+            "games": 9,
+            "at_bats": 27,
+            "hits": 5,
+            "average": 0.18518518518518517
           },
           "롯데": {
             "games": 13,
-            "at_bats": 52,
-            "hits": 20,
-            "average": 0.38461538461538464
+            "at_bats": 50,
+            "hits": 15,
+            "average": 0.3
           },
           "삼성": {
-            "games": 11,
-            "at_bats": 18,
-            "hits": 4,
-            "average": 0.2222222222222222
+            "games": 12,
+            "at_bats": 46,
+            "hits": 13,
+            "average": 0.2826086956521739
           },
           "키움": {
-            "games": 11,
-            "at_bats": 36,
+            "games": 7,
+            "at_bats": 24,
             "hits": 7,
-            "average": 0.19444444444444445
+            "average": 0.2916666666666667
+          },
+          "한화": {
+            "games": 12,
+            "at_bats": 45,
+            "hits": 14,
+            "average": 0.3111111111111111
           }
         },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66704",
-        "fetched_at": "2026-09-09T03:25:21+09:00"
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54944",
+        "fetched_at": "2026-09-11T03:13:15+09:00"
       },
       "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66704.jpg"
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54944.jpg"
     },
     {
       "player_id": "68205",
-      "rank": 35,
+      "rank": 33,
       "name": "전민재",
       "team": "롯데",
-      "games": 117,
-      "plate_appearances": 425,
-      "at_bats": 387,
-      "hits": 106,
-      "average": 0.274,
+      "games": 118,
+      "plate_appearances": 427,
+      "at_bats": 389,
+      "hits": 107,
+      "average": 0.275,
       "position": "유격수",
       "recent10": {
         "games": 10,
-        "at_bats": 35,
-        "hits": 10,
-        "average": 0.2857142857142857,
-        "start_date": "2026-08-25",
-        "end_date": "2026-09-08",
+        "at_bats": 34,
+        "hits": 9,
+        "average": 0.2647058823529412,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-25",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 2
-          },
           {
             "date": "2026-08-26",
             "opponent": "KIA",
@@ -6462,6 +6145,13 @@
             "venue": "방문",
             "at_bats": 5,
             "hits": 2
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 2,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=68205"
@@ -6475,10 +6165,10 @@
             "average": 0.3076923076923077
           },
           "KT": {
-            "games": 10,
-            "at_bats": 28,
-            "hits": 6,
-            "average": 0.21428571428571427
+            "games": 11,
+            "at_bats": 30,
+            "hits": 7,
+            "average": 0.23333333333333334
           },
           "LG": {
             "games": 12,
@@ -6524,192 +6214,495 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68205",
-        "fetched_at": "2026-09-09T03:25:22+09:00"
+        "fetched_at": "2026-09-11T03:13:16+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68205.jpg"
     },
     {
-      "player_id": "54812",
-      "rank": 36,
-      "name": "정준재",
-      "team": "SSG",
-      "games": 122,
-      "plate_appearances": 520,
-      "at_bats": 448,
-      "hits": 122,
-      "average": 0.272,
-      "position": "2루수",
+      "player_id": "76290",
+      "rank": 34,
+      "name": "김현수",
+      "team": "KT",
+      "games": 120,
+      "plate_appearances": 534,
+      "at_bats": 478,
+      "hits": 131,
+      "average": 0.274,
+      "position": "1루수",
       "recent10": {
         "games": 10,
-        "at_bats": 40,
-        "hits": 10,
-        "average": 0.25,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 36,
+        "hits": 8,
+        "average": 0.2222222222222222,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
           {
-            "date": "2026-08-26",
+            "date": "2026-08-29",
+            "opponent": "삼성",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-01",
             "opponent": "한화",
             "venue": "홈",
             "at_bats": 3,
             "hits": 1
           },
           {
-            "date": "2026-08-27",
+            "date": "2026-09-02",
             "opponent": "한화",
             "venue": "홈",
             "at_bats": 5,
             "hits": 1
           },
           {
-            "date": "2026-08-29",
+            "date": "2026-09-03",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 0,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-04",
             "opponent": "KIA",
             "venue": "방문",
             "at_bats": 5,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
             "hits": 2
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "삼성",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 2
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=76290"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 11,
+            "at_bats": 46,
+            "hits": 15,
+            "average": 0.32608695652173914
+          },
+          "LG": {
+            "games": 15,
+            "at_bats": 61,
+            "hits": 12,
+            "average": 0.19672131147540983
+          },
+          "NC": {
+            "games": 14,
+            "at_bats": 57,
+            "hits": 17,
+            "average": 0.2982456140350877
+          },
+          "SSG": {
+            "games": 15,
+            "at_bats": 54,
+            "hits": 15,
+            "average": 0.2777777777777778
+          },
+          "두산": {
+            "games": 13,
+            "at_bats": 55,
+            "hits": 15,
+            "average": 0.2727272727272727
+          },
+          "롯데": {
+            "games": 11,
+            "at_bats": 37,
+            "hits": 9,
+            "average": 0.24324324324324326
+          },
+          "삼성": {
+            "games": 13,
+            "at_bats": 54,
+            "hits": 15,
+            "average": 0.2777777777777778
+          },
+          "키움": {
+            "games": 14,
+            "at_bats": 56,
+            "hits": 15,
+            "average": 0.26785714285714285
+          },
+          "한화": {
+            "games": 14,
+            "at_bats": 58,
+            "hits": 18,
+            "average": 0.3103448275862069
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76290",
+        "fetched_at": "2026-09-11T03:13:17+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/76290.jpg"
+    },
+    {
+      "player_id": "78603",
+      "rank": 35,
+      "name": "김선빈",
+      "team": "KIA",
+      "games": 117,
+      "plate_appearances": 456,
+      "at_bats": 388,
+      "hits": 106,
+      "average": 0.273,
+      "position": "2루수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 33,
+        "hits": 8,
+        "average": 0.24242424242424243,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-26",
+            "opponent": "롯데",
+            "venue": "홈",
+            "at_bats": 1,
+            "hits": 1
+          },
+          {
+            "date": "2026-08-29",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
           },
           {
             "date": "2026-09-01",
-            "opponent": "키움",
+            "opponent": "NC",
             "venue": "방문",
-            "at_bats": 5,
-            "hits": 2
+            "at_bats": 3,
+            "hits": 0
           },
           {
             "date": "2026-09-02",
-            "opponent": "키움",
+            "opponent": "NC",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 2,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "KT",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "삼성",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 1
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=78603"
+      },
+      "opponents": {
+        "teams": {
+          "KT": {
+            "games": 12,
+            "at_bats": 38,
+            "hits": 14,
+            "average": 0.3684210526315789
+          },
+          "LG": {
+            "games": 11,
+            "at_bats": 37,
+            "hits": 6,
+            "average": 0.16216216216216217
+          },
+          "NC": {
+            "games": 13,
+            "at_bats": 50,
+            "hits": 9,
+            "average": 0.18
+          },
+          "SSG": {
+            "games": 13,
+            "at_bats": 44,
+            "hits": 16,
+            "average": 0.36363636363636365
+          },
+          "두산": {
+            "games": 14,
+            "at_bats": 48,
+            "hits": 14,
+            "average": 0.2916666666666667
+          },
+          "롯데": {
+            "games": 14,
+            "at_bats": 46,
+            "hits": 9,
+            "average": 0.1956521739130435
+          },
+          "삼성": {
+            "games": 13,
+            "at_bats": 40,
+            "hits": 15,
+            "average": 0.375
+          },
+          "키움": {
+            "games": 13,
+            "at_bats": 41,
+            "hits": 12,
+            "average": 0.2926829268292683
+          },
+          "한화": {
+            "games": 14,
+            "at_bats": 44,
+            "hits": 11,
+            "average": 0.25
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78603",
+        "fetched_at": "2026-09-11T03:13:17+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/78603.jpg"
+    },
+    {
+      "player_id": "66704",
+      "rank": 36,
+      "name": "김태연",
+      "team": "한화",
+      "games": 109,
+      "plate_appearances": 386,
+      "at_bats": 330,
+      "hits": 90,
+      "average": 0.273,
+      "position": "1루수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 42,
+        "hits": 10,
+        "average": 0.23809523809523808,
+        "start_date": "2026-08-30",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-30",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "KT",
             "venue": "방문",
             "at_bats": 4,
             "hits": 0
           },
           {
             "date": "2026-09-03",
-            "opponent": "키움",
+            "opponent": "KT",
             "venue": "방문",
-            "at_bats": 5,
+            "at_bats": 4,
             "hits": 2
           },
           {
             "date": "2026-09-04",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-06",
+            "opponent": "롯데",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-08",
             "opponent": "두산",
             "venue": "홈",
             "at_bats": 3,
             "hits": 1
           },
           {
-            "date": "2026-09-05",
-            "opponent": "두산",
+            "date": "2026-09-09",
+            "opponent": "LG",
             "venue": "홈",
-            "at_bats": 3,
-            "hits": 0
+            "at_bats": 6,
+            "hits": 1
           },
           {
-            "date": "2026-09-06",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "KT",
+            "date": "2026-09-10",
+            "opponent": "SSG",
             "venue": "방문",
             "at_bats": 4,
             "hits": 1
           }
         ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54812"
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=66704"
       },
       "opponents": {
         "teams": {
           "KIA": {
-            "games": 13,
-            "at_bats": 50,
-            "hits": 12,
-            "average": 0.24
+            "games": 14,
+            "at_bats": 37,
+            "hits": 11,
+            "average": 0.2972972972972973
           },
           "KT": {
-            "games": 15,
-            "at_bats": 60,
-            "hits": 24,
-            "average": 0.4
+            "games": 9,
+            "at_bats": 27,
+            "hits": 7,
+            "average": 0.25925925925925924
           },
           "LG": {
-            "games": 12,
-            "at_bats": 45,
-            "hits": 12,
-            "average": 0.26666666666666666
+            "games": 14,
+            "at_bats": 51,
+            "hits": 15,
+            "average": 0.29411764705882354
           },
           "NC": {
-            "games": 11,
-            "at_bats": 45,
-            "hits": 11,
-            "average": 0.24444444444444444
+            "games": 10,
+            "at_bats": 29,
+            "hits": 8,
+            "average": 0.27586206896551724
+          },
+          "SSG": {
+            "games": 13,
+            "at_bats": 37,
+            "hits": 7,
+            "average": 0.1891891891891892
           },
           "두산": {
-            "games": 15,
-            "at_bats": 51,
-            "hits": 12,
-            "average": 0.23529411764705882
+            "games": 14,
+            "at_bats": 43,
+            "hits": 11,
+            "average": 0.2558139534883721
           },
           "롯데": {
-            "games": 15,
+            "games": 13,
             "at_bats": 52,
-            "hits": 15,
-            "average": 0.28846153846153844
+            "hits": 20,
+            "average": 0.38461538461538464
           },
           "삼성": {
-            "games": 14,
-            "at_bats": 50,
-            "hits": 9,
-            "average": 0.18
+            "games": 11,
+            "at_bats": 18,
+            "hits": 4,
+            "average": 0.2222222222222222
           },
           "키움": {
-            "games": 15,
-            "at_bats": 53,
-            "hits": 12,
-            "average": 0.22641509433962265
-          },
-          "한화": {
-            "games": 12,
-            "at_bats": 42,
-            "hits": 15,
-            "average": 0.35714285714285715
+            "games": 11,
+            "at_bats": 36,
+            "hits": 7,
+            "average": 0.19444444444444445
           }
         },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54812",
-        "fetched_at": "2026-09-09T03:25:22+09:00"
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66704",
+        "fetched_at": "2026-09-11T03:13:17+09:00"
       },
       "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54812.jpg"
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66704.jpg"
     },
     {
       "player_id": "53312",
       "rank": 37,
       "name": "김건희",
       "team": "키움",
-      "games": 117,
-      "plate_appearances": 398,
-      "at_bats": 360,
+      "games": 118,
+      "plate_appearances": 400,
+      "at_bats": 362,
       "hits": 98,
-      "average": 0.272,
+      "average": 0.271,
       "position": "포수",
       "recent10": {
         "games": 10,
-        "at_bats": 30,
-        "hits": 7,
-        "average": 0.23333333333333334,
-        "start_date": "2026-08-23",
-        "end_date": "2026-09-06",
+        "at_bats": 28,
+        "hits": 6,
+        "average": 0.21428571428571427,
+        "start_date": "2026-08-25",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-23",
-            "opponent": "KIA",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 1
-          },
           {
             "date": "2026-08-25",
             "opponent": "삼성",
@@ -6770,6 +6763,13 @@
             "date": "2026-09-06",
             "opponent": "NC",
             "venue": "홈",
+            "at_bats": 2,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "두산",
+            "venue": "방문",
             "at_bats": 2,
             "hits": 0
           }
@@ -6809,10 +6809,10 @@
             "average": 0.34146341463414637
           },
           "두산": {
-            "games": 9,
-            "at_bats": 30,
+            "games": 10,
+            "at_bats": 32,
             "hits": 6,
-            "average": 0.2
+            "average": 0.1875
           },
           "롯데": {
             "games": 13,
@@ -6834,199 +6834,185 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53312",
-        "fetched_at": "2026-09-09T03:25:23+09:00"
+        "fetched_at": "2026-09-11T03:13:19+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53312.jpg"
     },
     {
-      "player_id": "76290",
+      "player_id": "54812",
       "rank": 38,
-      "name": "김현수",
-      "team": "KT",
-      "games": 118,
-      "plate_appearances": 526,
-      "at_bats": 471,
-      "hits": 128,
-      "average": 0.272,
-      "position": "1루수",
+      "name": "정준재",
+      "team": "SSG",
+      "games": 124,
+      "plate_appearances": 528,
+      "at_bats": 454,
+      "hits": 122,
+      "average": 0.269,
+      "position": "2루수",
       "recent10": {
         "games": 10,
-        "at_bats": 37,
+        "at_bats": 38,
         "hits": 8,
-        "average": 0.21621621621621623,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "average": 0.21052631578947367,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
           {
-            "date": "2026-08-26",
-            "opponent": "두산",
-            "venue": "홈",
+            "date": "2026-08-29",
+            "opponent": "KIA",
+            "venue": "방문",
             "at_bats": 5,
             "hits": 2
           },
           {
-            "date": "2026-08-27",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
+            "date": "2026-09-01",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 2
           },
           {
-            "date": "2026-08-29",
-            "opponent": "삼성",
+            "date": "2026-09-02",
+            "opponent": "키움",
             "venue": "방문",
             "at_bats": 4,
             "hits": 0
           },
           {
-            "date": "2026-09-01",
-            "opponent": "한화",
+            "date": "2026-09-03",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 5,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "두산",
             "venue": "홈",
             "at_bats": 3,
             "hits": 1
           },
           {
-            "date": "2026-09-02",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 0,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 5,
-            "hits": 0
-          },
-          {
             "date": "2026-09-05",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 5,
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 3,
             "hits": 0
           },
           {
             "date": "2026-09-06",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
           },
           {
             "date": "2026-09-08",
-            "opponent": "SSG",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "두산",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "한화",
             "venue": "홈",
             "at_bats": 3,
-            "hits": 1
+            "hits": 0
           }
         ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=76290"
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=54812"
       },
       "opponents": {
         "teams": {
           "KIA": {
-            "games": 11,
-            "at_bats": 46,
-            "hits": 15,
-            "average": 0.32608695652173914
+            "games": 13,
+            "at_bats": 50,
+            "hits": 12,
+            "average": 0.24
+          },
+          "KT": {
+            "games": 15,
+            "at_bats": 60,
+            "hits": 24,
+            "average": 0.4
           },
           "LG": {
-            "games": 15,
-            "at_bats": 61,
+            "games": 12,
+            "at_bats": 45,
             "hits": 12,
-            "average": 0.19672131147540983
+            "average": 0.26666666666666666
           },
           "NC": {
-            "games": 14,
-            "at_bats": 57,
-            "hits": 17,
-            "average": 0.2982456140350877
-          },
-          "SSG": {
-            "games": 15,
-            "at_bats": 54,
-            "hits": 15,
-            "average": 0.2777777777777778
+            "games": 11,
+            "at_bats": 45,
+            "hits": 11,
+            "average": 0.24444444444444444
           },
           "두산": {
-            "games": 13,
-            "at_bats": 55,
-            "hits": 15,
-            "average": 0.2727272727272727
+            "games": 16,
+            "at_bats": 54,
+            "hits": 12,
+            "average": 0.2222222222222222
           },
           "롯데": {
-            "games": 10,
-            "at_bats": 34,
-            "hits": 7,
-            "average": 0.20588235294117646
+            "games": 15,
+            "at_bats": 52,
+            "hits": 15,
+            "average": 0.28846153846153844
           },
           "삼성": {
-            "games": 12,
+            "games": 14,
             "at_bats": 50,
-            "hits": 14,
-            "average": 0.28
+            "hits": 9,
+            "average": 0.18
           },
           "키움": {
-            "games": 14,
-            "at_bats": 56,
-            "hits": 15,
-            "average": 0.26785714285714285
+            "games": 15,
+            "at_bats": 53,
+            "hits": 12,
+            "average": 0.22641509433962265
           },
           "한화": {
-            "games": 14,
-            "at_bats": 58,
-            "hits": 18,
-            "average": 0.3103448275862069
+            "games": 13,
+            "at_bats": 45,
+            "hits": 15,
+            "average": 0.3333333333333333
           }
         },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76290",
-        "fetched_at": "2026-09-09T03:25:23+09:00"
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54812",
+        "fetched_at": "2026-09-11T03:13:19+09:00"
       },
       "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/76290.jpg"
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54812.jpg"
     },
     {
       "player_id": "65653",
       "rank": 39,
       "name": "김호령",
       "team": "KIA",
-      "games": 119,
-      "plate_appearances": 501,
-      "at_bats": 452,
-      "hits": 122,
-      "average": 0.27,
+      "games": 121,
+      "plate_appearances": 508,
+      "at_bats": 459,
+      "hits": 123,
+      "average": 0.268,
       "position": "중견수",
       "recent10": {
         "games": 10,
-        "at_bats": 34,
-        "hits": 10,
-        "average": 0.29411764705882354,
-        "start_date": "2026-08-23",
-        "end_date": "2026-09-08",
+        "at_bats": 36,
+        "hits": 9,
+        "average": 0.25,
+        "start_date": "2026-08-26",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-23",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-25",
-            "opponent": "롯데",
-            "venue": "홈",
-            "at_bats": 2,
-            "hits": 1
-          },
           {
             "date": "2026-08-26",
             "opponent": "롯데",
@@ -7082,6 +7068,20 @@
             "venue": "방문",
             "at_bats": 4,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "NC",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=65653"
@@ -7101,10 +7101,10 @@
             "average": 0.375
           },
           "NC": {
-            "games": 11,
-            "at_bats": 42,
-            "hits": 12,
-            "average": 0.2857142857142857
+            "games": 13,
+            "at_bats": 49,
+            "hits": 13,
+            "average": 0.2653061224489796
           },
           "SSG": {
             "games": 13,
@@ -7144,7 +7144,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=65653",
-        "fetched_at": "2026-09-09T03:25:24+09:00"
+        "fetched_at": "2026-09-11T03:13:19+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65653.jpg"
@@ -7154,34 +7154,20 @@
       "rank": 40,
       "name": "심우준",
       "team": "한화",
-      "games": 111,
-      "plate_appearances": 384,
-      "at_bats": 337,
-      "hits": 90,
+      "games": 113,
+      "plate_appearances": 395,
+      "at_bats": 348,
+      "hits": 93,
       "average": 0.267,
       "position": "유격수",
       "recent10": {
         "games": 10,
-        "at_bats": 33,
-        "hits": 12,
-        "average": 0.36363636363636365,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 40,
+        "hits": 15,
+        "average": 0.375,
+        "start_date": "2026-08-30",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "SSG",
-            "venue": "방문",
-            "at_bats": 1,
-            "hits": 0
-          },
           {
             "date": "2026-08-30",
             "opponent": "NC",
@@ -7237,6 +7223,20 @@
             "venue": "홈",
             "at_bats": 4,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "LG",
+            "venue": "홈",
+            "at_bats": 7,
+            "hits": 2
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "SSG",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=64006"
@@ -7256,10 +7256,10 @@
             "average": 0.2857142857142857
           },
           "LG": {
-            "games": 10,
-            "at_bats": 31,
-            "hits": 6,
-            "average": 0.1935483870967742
+            "games": 11,
+            "at_bats": 38,
+            "hits": 8,
+            "average": 0.21052631578947367
           },
           "NC": {
             "games": 9,
@@ -7268,10 +7268,10 @@
             "average": 0.2692307692307692
           },
           "SSG": {
-            "games": 13,
-            "at_bats": 40,
-            "hits": 12,
-            "average": 0.3
+            "games": 14,
+            "at_bats": 44,
+            "hits": 13,
+            "average": 0.29545454545454547
           },
           "두산": {
             "games": 14,
@@ -7299,7 +7299,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=64006",
-        "fetched_at": "2026-09-09T03:25:26+09:00"
+        "fetched_at": "2026-09-11T03:13:20+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64006.jpg"
@@ -7454,7 +7454,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79608",
-        "fetched_at": "2026-09-09T03:25:26+09:00"
+        "fetched_at": "2026-09-11T03:13:21+09:00"
       },
       "position_exact": false,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79608.jpg"
@@ -7464,27 +7464,20 @@
       "rank": 42,
       "name": "신민재",
       "team": "LG",
-      "games": 119,
-      "plate_appearances": 398,
-      "at_bats": 344,
+      "games": 120,
+      "plate_appearances": 402,
+      "at_bats": 348,
       "hits": 90,
-      "average": 0.262,
+      "average": 0.259,
       "position": "2루수",
       "recent10": {
         "games": 10,
-        "at_bats": 37,
-        "hits": 10,
-        "average": 0.2702702702702703,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 38,
+        "hits": 9,
+        "average": 0.23684210526315788,
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
           {
             "date": "2026-08-27",
             "opponent": "NC",
@@ -7546,6 +7539,13 @@
             "opponent": "키움",
             "venue": "홈",
             "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "한화",
+            "venue": "방문",
+            "at_bats": 4,
             "hits": 0
           }
         ],
@@ -7602,14 +7602,14 @@
             "average": 0.3157894736842105
           },
           "한화": {
-            "games": 11,
-            "at_bats": 27,
+            "games": 12,
+            "at_bats": 31,
             "hits": 8,
-            "average": 0.2962962962962963
+            "average": 0.25806451612903225
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=65207",
-        "fetched_at": "2026-09-09T03:25:26+09:00"
+        "fetched_at": "2026-09-11T03:13:21+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65207.jpg"
@@ -7619,34 +7619,20 @@
       "rank": 43,
       "name": "정수빈",
       "team": "두산",
-      "games": 122,
-      "plate_appearances": 464,
-      "at_bats": 403,
-      "hits": 104,
-      "average": 0.258,
+      "games": 124,
+      "plate_appearances": 470,
+      "at_bats": 409,
+      "hits": 105,
+      "average": 0.257,
       "position": "중견수",
       "recent10": {
         "games": 10,
-        "at_bats": 33,
-        "hits": 6,
-        "average": 0.18181818181818182,
-        "start_date": "2026-08-27",
-        "end_date": "2026-09-08",
+        "at_bats": 32,
+        "hits": 7,
+        "average": 0.21875,
+        "start_date": "2026-08-30",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-27",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "키움",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 0
-          },
           {
             "date": "2026-08-30",
             "opponent": "키움",
@@ -7702,6 +7688,20 @@
             "venue": "방문",
             "at_bats": 4,
             "hits": 1
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "키움",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=79231"
@@ -7733,10 +7733,10 @@
             "average": 0.21428571428571427
           },
           "SSG": {
-            "games": 14,
-            "at_bats": 46,
-            "hits": 12,
-            "average": 0.2608695652173913
+            "games": 15,
+            "at_bats": 49,
+            "hits": 13,
+            "average": 0.2653061224489796
           },
           "롯데": {
             "games": 14,
@@ -7751,10 +7751,10 @@
             "average": 0.275
           },
           "키움": {
-            "games": 13,
-            "at_bats": 48,
+            "games": 14,
+            "at_bats": 51,
             "hits": 10,
-            "average": 0.20833333333333334
+            "average": 0.19607843137254902
           },
           "한화": {
             "games": 16,
@@ -7764,7 +7764,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79231",
-        "fetched_at": "2026-09-09T03:25:27+09:00"
+        "fetched_at": "2026-09-11T03:13:22+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79231.jpg"
@@ -7774,34 +7774,20 @@
       "rank": 44,
       "name": "양의지",
       "team": "두산",
-      "games": 118,
-      "plate_appearances": 473,
-      "at_bats": 395,
+      "games": 120,
+      "plate_appearances": 480,
+      "at_bats": 401,
       "hits": 100,
-      "average": 0.253,
+      "average": 0.249,
       "position": "포수",
       "recent10": {
         "games": 10,
-        "at_bats": 34,
-        "hits": 5,
-        "average": 0.14705882352941177,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 33,
+        "hits": 3,
+        "average": 0.09090909090909091,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 2
-          },
           {
             "date": "2026-08-29",
             "opponent": "키움",
@@ -7857,6 +7843,20 @@
             "venue": "방문",
             "at_bats": 4,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "SSG",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "키움",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 0
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=76232"
@@ -7888,10 +7888,10 @@
             "average": 0.20512820512820512
           },
           "SSG": {
-            "games": 12,
-            "at_bats": 42,
+            "games": 13,
+            "at_bats": 45,
             "hits": 9,
-            "average": 0.21428571428571427
+            "average": 0.2
           },
           "롯데": {
             "games": 14,
@@ -7906,10 +7906,10 @@
             "average": 0.3783783783783784
           },
           "키움": {
-            "games": 13,
-            "at_bats": 38,
+            "games": 14,
+            "at_bats": 41,
             "hits": 10,
-            "average": 0.2631578947368421
+            "average": 0.24390243902439024
           },
           "한화": {
             "games": 16,
@@ -7919,192 +7919,30 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76232",
-        "fetched_at": "2026-09-09T03:25:27+09:00"
+        "fetched_at": "2026-09-11T03:13:22+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/76232.jpg"
     },
     {
-      "player_id": "50854",
-      "rank": 45,
-      "name": "최지훈",
-      "team": "SSG",
-      "games": 122,
-      "plate_appearances": 500,
-      "at_bats": 453,
-      "hits": 110,
-      "average": 0.243,
-      "position": "중견수",
-      "recent10": {
-        "games": 10,
-        "at_bats": 35,
-        "hits": 8,
-        "average": 0.22857142857142856,
-        "start_date": "2026-08-25",
-        "end_date": "2026-09-08",
-        "game_log": [
-          {
-            "date": "2026-08-25",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
-          {
-            "date": "2026-08-26",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 5,
-            "hits": 1
-          },
-          {
-            "date": "2026-08-29",
-            "opponent": "KIA",
-            "venue": "방문",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-01",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-02",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-03",
-            "opponent": "키움",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-04",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
-          {
-            "date": "2026-09-05",
-            "opponent": "두산",
-            "venue": "홈",
-            "at_bats": 3,
-            "hits": 1
-          },
-          {
-            "date": "2026-09-08",
-            "opponent": "KT",
-            "venue": "방문",
-            "at_bats": 3,
-            "hits": 0
-          }
-        ],
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=50854"
-      },
-      "opponents": {
-        "teams": {
-          "KIA": {
-            "games": 13,
-            "at_bats": 45,
-            "hits": 8,
-            "average": 0.17777777777777778
-          },
-          "KT": {
-            "games": 15,
-            "at_bats": 53,
-            "hits": 14,
-            "average": 0.2641509433962264
-          },
-          "LG": {
-            "games": 12,
-            "at_bats": 45,
-            "hits": 11,
-            "average": 0.24444444444444444
-          },
-          "NC": {
-            "games": 11,
-            "at_bats": 44,
-            "hits": 8,
-            "average": 0.18181818181818182
-          },
-          "두산": {
-            "games": 14,
-            "at_bats": 50,
-            "hits": 13,
-            "average": 0.26
-          },
-          "롯데": {
-            "games": 15,
-            "at_bats": 60,
-            "hits": 15,
-            "average": 0.25
-          },
-          "삼성": {
-            "games": 13,
-            "at_bats": 51,
-            "hits": 16,
-            "average": 0.3137254901960784
-          },
-          "키움": {
-            "games": 15,
-            "at_bats": 48,
-            "hits": 10,
-            "average": 0.20833333333333334
-          },
-          "한화": {
-            "games": 14,
-            "at_bats": 57,
-            "hits": 15,
-            "average": 0.2631578947368421
-          }
-        },
-        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50854",
-        "fetched_at": "2026-09-09T03:25:27+09:00"
-      },
-      "position_exact": true,
-      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50854.jpg"
-    },
-    {
       "player_id": "66108",
-      "rank": 46,
+      "rank": 45,
       "name": "홍창기",
       "team": "LG",
-      "games": 114,
-      "plate_appearances": 474,
-      "at_bats": 380,
-      "hits": 92,
-      "average": 0.242,
+      "games": 115,
+      "plate_appearances": 477,
+      "at_bats": 382,
+      "hits": 93,
+      "average": 0.243,
       "position": "우익수",
       "recent10": {
         "games": 10,
-        "at_bats": 21,
-        "hits": 3,
-        "average": 0.14285714285714285,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 19,
+        "hits": 2,
+        "average": 0.10526315789473684,
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "NC",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
           {
             "date": "2026-08-27",
             "opponent": "NC",
@@ -8167,6 +8005,13 @@
             "venue": "홈",
             "at_bats": 2,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "한화",
+            "venue": "방문",
+            "at_bats": 2,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=66108"
@@ -8222,44 +8067,192 @@
             "average": 0.2127659574468085
           },
           "한화": {
-            "games": 10,
-            "at_bats": 35,
-            "hits": 13,
-            "average": 0.37142857142857144
+            "games": 11,
+            "at_bats": 37,
+            "hits": 14,
+            "average": 0.3783783783783784
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66108",
-        "fetched_at": "2026-09-09T03:25:29+09:00"
+        "fetched_at": "2026-09-11T03:13:22+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66108.jpg"
+    },
+    {
+      "player_id": "50854",
+      "rank": 46,
+      "name": "최지훈",
+      "team": "SSG",
+      "games": 124,
+      "plate_appearances": 508,
+      "at_bats": 460,
+      "hits": 111,
+      "average": 0.241,
+      "position": "중견수",
+      "recent10": {
+        "games": 10,
+        "at_bats": 35,
+        "hits": 6,
+        "average": 0.17142857142857143,
+        "start_date": "2026-08-27",
+        "end_date": "2026-09-10",
+        "game_log": [
+          {
+            "date": "2026-08-27",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 5,
+            "hits": 1
+          },
+          {
+            "date": "2026-08-29",
+            "opponent": "KIA",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-01",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-02",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-03",
+            "opponent": "키움",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-04",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-05",
+            "opponent": "두산",
+            "venue": "홈",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-08",
+            "opponent": "KT",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "두산",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 0
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 1
+          }
+        ],
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=50854"
+      },
+      "opponents": {
+        "teams": {
+          "KIA": {
+            "games": 13,
+            "at_bats": 45,
+            "hits": 8,
+            "average": 0.17777777777777778
+          },
+          "KT": {
+            "games": 15,
+            "at_bats": 53,
+            "hits": 14,
+            "average": 0.2641509433962264
+          },
+          "LG": {
+            "games": 12,
+            "at_bats": 45,
+            "hits": 11,
+            "average": 0.24444444444444444
+          },
+          "NC": {
+            "games": 11,
+            "at_bats": 44,
+            "hits": 8,
+            "average": 0.18181818181818182
+          },
+          "두산": {
+            "games": 15,
+            "at_bats": 53,
+            "hits": 13,
+            "average": 0.24528301886792453
+          },
+          "롯데": {
+            "games": 15,
+            "at_bats": 60,
+            "hits": 15,
+            "average": 0.25
+          },
+          "삼성": {
+            "games": 13,
+            "at_bats": 51,
+            "hits": 16,
+            "average": 0.3137254901960784
+          },
+          "키움": {
+            "games": 15,
+            "at_bats": 48,
+            "hits": 10,
+            "average": 0.20833333333333334
+          },
+          "한화": {
+            "games": 15,
+            "at_bats": 61,
+            "hits": 16,
+            "average": 0.26229508196721313
+          }
+        },
+        "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50854",
+        "fetched_at": "2026-09-11T03:13:24+09:00"
+      },
+      "position_exact": true,
+      "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50854.jpg"
     },
     {
       "player_id": "79109",
       "rank": 47,
       "name": "오지환",
       "team": "LG",
-      "games": 110,
-      "plate_appearances": 389,
-      "at_bats": 338,
-      "hits": 78,
+      "games": 111,
+      "plate_appearances": 393,
+      "at_bats": 342,
+      "hits": 79,
       "average": 0.231,
       "position": "유격수",
       "recent10": {
         "games": 10,
         "at_bats": 28,
-        "hits": 3,
-        "average": 0.10714285714285714,
-        "start_date": "2026-08-18",
-        "end_date": "2026-09-08",
+        "hits": 4,
+        "average": 0.14285714285714285,
+        "start_date": "2026-08-19",
+        "end_date": "2026-09-09",
         "game_log": [
-          {
-            "date": "2026-08-18",
-            "opponent": "KT",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 0
-          },
           {
             "date": "2026-08-19",
             "opponent": "KT",
@@ -8322,6 +8315,13 @@
             "venue": "홈",
             "at_bats": 3,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "한화",
+            "venue": "방문",
+            "at_bats": 4,
+            "hits": 1
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=79109"
@@ -8377,14 +8377,14 @@
             "average": 0.32558139534883723
           },
           "한화": {
-            "games": 11,
-            "at_bats": 29,
-            "hits": 5,
-            "average": 0.1724137931034483
+            "games": 12,
+            "at_bats": 33,
+            "hits": 6,
+            "average": 0.18181818181818182
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79109",
-        "fetched_at": "2026-09-09T03:25:29+09:00"
+        "fetched_at": "2026-09-11T03:13:24+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79109.jpg"
@@ -8394,34 +8394,20 @@
       "rank": 48,
       "name": "김재환",
       "team": "SSG",
-      "games": 113,
-      "plate_appearances": 455,
-      "at_bats": 384,
-      "hits": 86,
-      "average": 0.224,
+      "games": 115,
+      "plate_appearances": 463,
+      "at_bats": 391,
+      "hits": 89,
+      "average": 0.228,
       "position": ">",
       "recent10": {
         "games": 10,
-        "at_bats": 31,
-        "hits": 6,
-        "average": 0.1935483870967742,
-        "start_date": "2026-08-26",
-        "end_date": "2026-09-08",
+        "at_bats": 32,
+        "hits": 7,
+        "average": 0.21875,
+        "start_date": "2026-08-29",
+        "end_date": "2026-09-10",
         "game_log": [
-          {
-            "date": "2026-08-26",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 2,
-            "hits": 0
-          },
-          {
-            "date": "2026-08-27",
-            "opponent": "한화",
-            "venue": "홈",
-            "at_bats": 4,
-            "hits": 2
-          },
           {
             "date": "2026-08-29",
             "opponent": "KIA",
@@ -8477,6 +8463,20 @@
             "venue": "방문",
             "at_bats": 4,
             "hits": 0
+          },
+          {
+            "date": "2026-09-09",
+            "opponent": "두산",
+            "venue": "방문",
+            "at_bats": 3,
+            "hits": 1
+          },
+          {
+            "date": "2026-09-10",
+            "opponent": "한화",
+            "venue": "홈",
+            "at_bats": 4,
+            "hits": 2
           }
         ],
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Basic.aspx?playerId=78224"
@@ -8508,10 +8508,10 @@
             "average": 0.3142857142857143
           },
           "두산": {
-            "games": 14,
-            "at_bats": 43,
-            "hits": 6,
-            "average": 0.13953488372093023
+            "games": 15,
+            "at_bats": 46,
+            "hits": 7,
+            "average": 0.15217391304347827
           },
           "롯데": {
             "games": 12,
@@ -8532,14 +8532,14 @@
             "average": 0.24489795918367346
           },
           "한화": {
-            "games": 10,
-            "at_bats": 33,
-            "hits": 10,
-            "average": 0.30303030303030304
+            "games": 11,
+            "at_bats": 37,
+            "hits": 12,
+            "average": 0.32432432432432434
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78224",
-        "fetched_at": "2026-09-09T03:25:30+09:00"
+        "fetched_at": "2026-09-11T03:13:24+09:00"
       },
       "position_exact": false,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/78224.jpg"
