@@ -330,11 +330,11 @@
         "date": "2026-10-10",
         "away": "LG",
         "home": "롯데",
-        "time": "17:00",
+        "time": "14:00",
         "status": "scheduled",
         "note": "-",
         "venue": "사직",
-        "game_id": null
+        "game_id": "20261010LGLT0"
       },
       {
         "date": "2026-10-10",
@@ -344,7 +344,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "광주",
-        "game_id": null
+        "game_id": "20261010SKHT0"
       },
       {
         "date": "2026-10-10",
@@ -354,7 +354,7 @@
         "status": "scheduled",
         "note": "-",
         "venue": "대전",
-        "game_id": null
+        "game_id": "20261010NCHH0"
       },
       {
         "date": "2026-10-11",
@@ -407,14 +407,14 @@
         "game_id": null
       }
     ],
-    "fetched_at": "2026-10-02T05:13:28+09:00"
+    "fetched_at": "2026-10-03T04:49:54+09:00"
   },
   "source_url": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
   "defense_source_url": "https://www.koreabaseball.com/Record/Player/Defense/Basic.aspx",
   "season": 2026,
   "series": "KBO 정규시즌",
   "scope": "KBO 기본 타자기록의 기본 조회 대상 · 전체 페이지",
-  "fetched_at": "2026-10-02T05:13:28+09:00",
+  "fetched_at": "2026-10-03T04:49:54+09:00",
   "record_cutoff": null,
   "pages": 2,
   "players": [
@@ -568,7 +568,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62404",
-        "fetched_at": "2026-10-02T05:12:55+09:00"
+        "fetched_at": "2026-10-03T04:49:26+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62404.jpg"
@@ -723,7 +723,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54529",
-        "fetched_at": "2026-10-02T05:12:55+09:00"
+        "fetched_at": "2026-10-03T04:49:26+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54529.jpg"
@@ -878,7 +878,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66606",
-        "fetched_at": "2026-10-02T05:12:55+09:00"
+        "fetched_at": "2026-10-03T04:49:26+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66606.jpg"
@@ -1033,7 +1033,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53123",
-        "fetched_at": "2026-10-02T05:12:57+09:00"
+        "fetched_at": "2026-10-03T04:49:28+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53123.jpg"
@@ -1188,7 +1188,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67893",
-        "fetched_at": "2026-10-02T05:12:57+09:00"
+        "fetched_at": "2026-10-03T04:49:28+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67893.jpg"
@@ -1343,7 +1343,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62907",
-        "fetched_at": "2026-10-02T05:12:57+09:00"
+        "fetched_at": "2026-10-03T04:49:28+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62907.jpg"
@@ -1498,7 +1498,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50458",
-        "fetched_at": "2026-10-02T05:12:59+09:00"
+        "fetched_at": "2026-10-03T04:49:30+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50458.jpg"
@@ -1653,7 +1653,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52605",
-        "fetched_at": "2026-10-02T05:12:59+09:00"
+        "fetched_at": "2026-10-03T04:49:30+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52605.jpg"
@@ -1808,7 +1808,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78168",
-        "fetched_at": "2026-10-02T05:13:00+09:00"
+        "fetched_at": "2026-10-03T04:49:30+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/78168.jpg"
@@ -1963,7 +1963,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=72443",
-        "fetched_at": "2026-10-02T05:13:01+09:00"
+        "fetched_at": "2026-10-03T04:49:32+09:00"
       },
       "position_exact": false,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/72443.jpg"
@@ -2118,7 +2118,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=56034",
-        "fetched_at": "2026-10-02T05:13:02+09:00"
+        "fetched_at": "2026-10-03T04:49:32+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/56034.jpg"
@@ -2273,7 +2273,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53554",
-        "fetched_at": "2026-10-02T05:13:02+09:00"
+        "fetched_at": "2026-10-03T04:49:32+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53554.jpg"
@@ -2428,7 +2428,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=67449",
-        "fetched_at": "2026-10-02T05:13:04+09:00"
+        "fetched_at": "2026-10-03T04:49:33+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/67449.jpg"
@@ -2583,7 +2583,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54400",
-        "fetched_at": "2026-10-02T05:13:04+09:00"
+        "fetched_at": "2026-10-03T04:49:33+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54400.jpg"
@@ -2738,7 +2738,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79215",
-        "fetched_at": "2026-10-02T05:13:04+09:00"
+        "fetched_at": "2026-10-03T04:49:34+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79215.jpg"
@@ -2893,7 +2893,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68525",
-        "fetched_at": "2026-10-02T05:13:06+09:00"
+        "fetched_at": "2026-10-03T04:49:35+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68525.jpg"
@@ -3048,7 +3048,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62947",
-        "fetched_at": "2026-10-02T05:13:06+09:00"
+        "fetched_at": "2026-10-03T04:49:35+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62947.jpg"
@@ -3203,7 +3203,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53764",
-        "fetched_at": "2026-10-02T05:13:06+09:00"
+        "fetched_at": "2026-10-03T04:49:36+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53764.jpg"
@@ -3358,7 +3358,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=55636",
-        "fetched_at": "2026-10-02T05:13:08+09:00"
+        "fetched_at": "2026-10-03T04:49:37+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/55636.jpg"
@@ -3513,7 +3513,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54730",
-        "fetched_at": "2026-10-02T05:13:08+09:00"
+        "fetched_at": "2026-10-03T04:49:37+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54730.jpg"
@@ -3668,7 +3668,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62415",
-        "fetched_at": "2026-10-02T05:13:09+09:00"
+        "fetched_at": "2026-10-03T04:49:37+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62415.jpg"
@@ -3829,7 +3829,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54944",
-        "fetched_at": "2026-10-02T05:13:10+09:00"
+        "fetched_at": "2026-10-03T04:49:39+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54944.jpg"
@@ -3984,7 +3984,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50500",
-        "fetched_at": "2026-10-02T05:13:10+09:00"
+        "fetched_at": "2026-10-03T04:49:39+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50500.jpg"
@@ -4139,7 +4139,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68050",
-        "fetched_at": "2026-10-02T05:13:11+09:00"
+        "fetched_at": "2026-10-03T04:49:39+09:00"
       },
       "position_exact": false,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68050.jpg"
@@ -4294,7 +4294,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=62234",
-        "fetched_at": "2026-10-02T05:13:12+09:00"
+        "fetched_at": "2026-10-03T04:49:40+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/62234.jpg"
@@ -4449,7 +4449,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69517",
-        "fetched_at": "2026-10-02T05:13:13+09:00"
+        "fetched_at": "2026-10-03T04:49:40+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69517.jpg"
@@ -4604,7 +4604,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=51907",
-        "fetched_at": "2026-10-02T05:13:13+09:00"
+        "fetched_at": "2026-10-03T04:49:41+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/51907.jpg"
@@ -4759,7 +4759,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=52764",
-        "fetched_at": "2026-10-02T05:13:14+09:00"
+        "fetched_at": "2026-10-03T04:49:42+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/52764.jpg"
@@ -4914,7 +4914,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76290",
-        "fetched_at": "2026-10-02T05:13:15+09:00"
+        "fetched_at": "2026-10-03T04:49:42+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/76290.jpg"
@@ -5069,7 +5069,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=69737",
-        "fetched_at": "2026-10-02T05:13:15+09:00"
+        "fetched_at": "2026-10-03T04:49:42+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/69737.jpg"
@@ -5224,7 +5224,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78603",
-        "fetched_at": "2026-10-02T05:13:16+09:00"
+        "fetched_at": "2026-10-03T04:49:44+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/78603.jpg"
@@ -5379,7 +5379,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=53827",
-        "fetched_at": "2026-10-02T05:13:17+09:00"
+        "fetched_at": "2026-10-03T04:49:44+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/53827.jpg"
@@ -5534,7 +5534,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=68205",
-        "fetched_at": "2026-10-02T05:13:17+09:00"
+        "fetched_at": "2026-10-03T04:49:44+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/68205.jpg"
@@ -5689,7 +5689,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=64646",
-        "fetched_at": "2026-10-02T05:13:18+09:00"
+        "fetched_at": "2026-10-03T04:49:45+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64646.jpg"
@@ -5844,7 +5844,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79402",
-        "fetched_at": "2026-10-02T05:13:19+09:00"
+        "fetched_at": "2026-10-03T04:49:46+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79402.jpg"
@@ -5999,7 +5999,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=54812",
-        "fetched_at": "2026-10-02T05:13:19+09:00"
+        "fetched_at": "2026-10-03T04:49:46+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/54812.jpg"
@@ -6154,7 +6154,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66704",
-        "fetched_at": "2026-10-02T05:13:21+09:00"
+        "fetched_at": "2026-10-03T04:49:47+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66704.jpg"
@@ -6309,7 +6309,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=65653",
-        "fetched_at": "2026-10-02T05:13:21+09:00"
+        "fetched_at": "2026-10-03T04:49:47+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65653.jpg"
@@ -6464,7 +6464,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=64006",
-        "fetched_at": "2026-10-02T05:13:21+09:00"
+        "fetched_at": "2026-10-03T04:49:48+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/64006.jpg"
@@ -6619,7 +6619,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79608",
-        "fetched_at": "2026-10-02T05:13:23+09:00"
+        "fetched_at": "2026-10-03T04:49:49+09:00"
       },
       "position_exact": false,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79608.jpg"
@@ -6774,7 +6774,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79231",
-        "fetched_at": "2026-10-02T05:13:23+09:00"
+        "fetched_at": "2026-10-03T04:49:49+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79231.jpg"
@@ -6929,7 +6929,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=76232",
-        "fetched_at": "2026-10-02T05:13:23+09:00"
+        "fetched_at": "2026-10-03T04:49:49+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/76232.jpg"
@@ -7084,7 +7084,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=65207",
-        "fetched_at": "2026-10-02T05:13:25+09:00"
+        "fetched_at": "2026-10-03T04:49:51+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/65207.jpg"
@@ -7239,7 +7239,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=79109",
-        "fetched_at": "2026-10-02T05:13:25+09:00"
+        "fetched_at": "2026-10-03T04:49:51+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/79109.jpg"
@@ -7394,7 +7394,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=66108",
-        "fetched_at": "2026-10-02T05:13:25+09:00"
+        "fetched_at": "2026-10-03T04:49:51+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/66108.jpg"
@@ -7549,7 +7549,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=50854",
-        "fetched_at": "2026-10-02T05:13:27+09:00"
+        "fetched_at": "2026-10-03T04:49:53+09:00"
       },
       "position_exact": true,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/50854.jpg"
@@ -7704,7 +7704,7 @@
           }
         },
         "source_url": "https://www.koreabaseball.com/Record/Player/HitterDetail/Game.aspx?playerId=78224",
-        "fetched_at": "2026-10-02T05:13:27+09:00"
+        "fetched_at": "2026-10-03T04:49:53+09:00"
       },
       "position_exact": false,
       "profile_image": "https://6ptotvmi5753.edge.naverncp.com/KBO_IMAGE/person/middle/2026/78224.jpg"
